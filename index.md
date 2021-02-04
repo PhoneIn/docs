@@ -2,7 +2,7 @@
 
 The PhoneIn Intercom hardware is controlled using either the Android or iOS mobile apps. The hardware is easy to install and the mobile apps easy to use.
 
-* [Getting Started with PhoneIn](/getting-started)
+* Getting Started with PhoneIn
 
 # Installation Guide
 
