@@ -1,10 +1,10 @@
 # Introduction
 
+This page contains all official PhoneIn Intercom documentation.
+
 The PhoneIn Intercom hardware is controlled using either the Android or iOS mobile apps. The hardware is easy to install and the mobile apps easy to use.
 
 * Getting Started with PhoneIn
-
-This page contains all official PhoneIn Intercom documentation.
 
 # Installation Guide
 
