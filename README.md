@@ -6,6 +6,8 @@ We are currently in document only mode: https://v2.docusaurus.io/docs/docs-intro
 
 If we want to bring back the home page, blog page, or add additional plugins, that can be done.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f5ecef5-5e15-4ca5-a92f-cbf979a8230f/deploy-status)](https://app.netlify.com/sites/elegant-meitner-d5e4de/deploys)
+
 ## Installation
 
 ```console
