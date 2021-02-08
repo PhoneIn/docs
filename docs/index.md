@@ -1,3 +1,10 @@
+---
+id: home
+title: PhoneIn Docs Home
+sidebar_label: Home
+slug: /
+---
+
 # Introduction
 
 This page contains all official PhoneIn Intercom documentation.
