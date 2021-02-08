@@ -36,7 +36,7 @@ Before purchasing a PhoneIn Intercom, make sure that:
 
 ## Mobile Apps
 
-
+Both PhoneIn Android and iOS mobile apps are currently undergoing internal testing.
 
 # Getting Support
 If you encounter any issues while using your PhoneIn Intercom or the PhoneIn mobile apps, you may get in touch with [PhoneIn customer support](contact@phonein.io) for assistance.
