@@ -39,5 +39,5 @@ Before purchasing a PhoneIn Intercom, make sure that:
 
 
 # Getting Support
-If you encounter any issues while using your PhoneIn Intercom or the PhoneIn mobile apps, you may get in touch with [PhoneIn customer support](contact@phonein.io) for assistance.
+If you encounter any issues while using your PhoneIn Intercom or the PhoneIn mobile apps, you may get in touch with [PhoneIn customer support](mailto:contact@phonein.io) for assistance.
 
