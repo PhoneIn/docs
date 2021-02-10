@@ -1,3 +1,10 @@
+---
+id: getting-started
+title: Getting Started with PhoneIn
+sidebar_label: Getting Started
+slug: /
+---
+
 # What is PhoneIn?
 PhoneIn is a universal smart intercom system that is compatible with building door security systems. 
 
@@ -36,11 +43,7 @@ Before purchasing a PhoneIn Intercom, make sure that:
 
 ## Mobile Apps
 
-<<<<<<< HEAD
 Both PhoneIn Android and iOS mobile apps are currently undergoing internal testing.
-=======
-
->>>>>>> 7dea2c67666d10377a47e79450c069adffe70657
 
 # Getting Support
 If you encounter any issues while using your PhoneIn Intercom or the PhoneIn mobile apps, you may get in touch with [PhoneIn customer support](mailto:contact@phonein.io) for assistance.
