@@ -1,8 +1,8 @@
 ---
-id: getting-started
+id: Getting Started with PhoneIn
 title: Getting Started with PhoneIn
 sidebar_label: Getting Started
-slug: /
+slug: /Getting Started
 ---
 
 # What is PhoneIn?
