@@ -1,5 +1,5 @@
 ---
-id: Getting Started with PhoneIn
+id: getting-started
 title: Getting Started with PhoneIn
 sidebar_label: Getting Started
 slug: /Getting Started
