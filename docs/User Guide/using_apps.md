@@ -1,8 +1,8 @@
 ---
-id: install_mobile_apps
-title: Downloading the PhoneIn Mobile Apps
-sidebar_label: /User Guide/Downloading and Installing the PhoneIn Mobile Apps
-slug: /User-Guide/installing-mobile-apps
+id: using_mobile_apps
+title: Using the PhoneIn Mobile Apps
+sidebar_label: /User Guide/Using the PhoneIn Mobile Apps
+slug: /User-Guide/using-mobile-apps
 keywords: phonein, installing phonein mobile apps, mobile apps, smart keys
 ---
 
@@ -44,6 +44,7 @@ To add a new device:
 1. To add another device, click the ***Hamburger menu*** on the top right, then click **New Device**.
 1. Repeat Steps 2-3.
 
+## 
 
 
 
