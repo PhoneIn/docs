@@ -19,9 +19,14 @@ module.exports = {
       item: ['home'],
     },
     {
+      type: 'doc',
+      label: 'Getting Started',
+      item: ['getting-started'],
+    },
+    {
       type: 'category',
       label: 'User Guide',
-      items: ['install=mobile=apps', 'create-phonein-account', 'using-mobile=apps'],
+      items: ['install-mobile-apps', 'create-phonein-account', 'using-mobile-apps'],
     },
     {
       type: 'category',
