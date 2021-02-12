@@ -5,14 +5,21 @@ module.exports = {
   },
 };
 
-module.exports = {
-  someSidebar: {
-   'Home': ['home'],
-   'Getting Started': ['getting-started'],
-   'Installation Guide': ['overview', 'installing-phonein', 'connecting-to-a-strike-lock'],
-   'User Guide': ['install-mobile-apps', 'create-phonein-account', 'using-mobile-apps'],
-  },
-};
+//module.exports = {
+//  someSidebar: {
+//      type: 'doc',
+//      label: 'Home',
+//      id: 'home',
+//   }
+//    {
+//      type: 'doc',
+//      label: 'Getting Started',
+//      id: 'getting-started',
+//    }
+//   User_Guide: ['install-mobile-apps', 'create-phonein-account', 'using-mobile-apps'],
+//   Installation_Guide: ['overview', 'installing-phonein', 'connecting-to-a-strike-lock'],
+//  },
+//};
 
 
 //module.exports = {
