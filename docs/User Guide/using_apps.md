@@ -2,7 +2,7 @@
 id: using_mobile_apps
 title: Using the PhoneIn Mobile Apps
 sidebar_label: /User Guide/Using the PhoneIn Mobile Apps
-slug: /User-Guide/using-mobile-apps
+slug: /using-mobile-apps
 keywords: phonein, installing phonein mobile apps, mobile apps, smart keys
 ---
 
