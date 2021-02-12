@@ -10,6 +10,7 @@ module.exports = {
     {
       type: 'doc',
       label: 'Home',
+      item: 'home',
     },
     {
       type: 'category',
