@@ -5,12 +5,18 @@
 //  },
 //};
 
+//module.exports = {
+  someSidebar: {
+
+  }
+}
+
 module.exports = {
   doc: [
     {
       type: 'doc',
       label: 'Home',
-      item: 'home',
+      item: ['home'],
     },
     {
       type: 'category',
