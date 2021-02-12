@@ -19,13 +19,13 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'User Guide',
-      items: ['install-mobile-apps', 'create-phonein-account', 'using-mobile-apps'],
+      label: 'Installation Guide',
+      items: ['overview', 'installing-phonein', 'connecting-to-a-strike-lock'],
     },
     {
       type: 'category',
-      label: 'Installation Guide',
-      items: ['overview', 'installing-phonein', 'connecting-to-a-strike-lock'],
+      label: 'User Guide',
+      items: ['install-mobile-apps', 'create-phonein-account', 'using-mobile-apps'],
     },
   ],
 };
