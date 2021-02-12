@@ -1,5 +1,5 @@
 ---
-id: install_mobile_apps
+id: install=mobile=apps
 title: Downloading the PhoneIn Mobile Apps
 sidebar_label: /User Guide/Downloading and Installing the PhoneIn Mobile Apps
 slug: /User-Guide/installing-mobile-apps

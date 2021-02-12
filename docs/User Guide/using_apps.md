@@ -1,5 +1,5 @@
 ---
-id: using_mobile_apps
+id: using-mobile=apps
 title: Using the PhoneIn Mobile Apps
 sidebar_label: /User Guide/Using the PhoneIn Mobile Apps
 slug: /using-mobile-apps
