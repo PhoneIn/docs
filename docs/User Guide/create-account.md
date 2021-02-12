@@ -2,7 +2,7 @@
 id: create_phonein_account
 title: Creating a PhoneIn Account
 sidebar_label: /User Guide/Creating a PhoneIn Account
-slug: /User-Guide/create-phonein-account
+slug: /create-phonein-account
 keywords: phonein, creating phonein account, installing phonein mobile apps, mobile apps, smart keys
 ---
 
