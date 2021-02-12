@@ -2,7 +2,7 @@
 id: installing-phonein
 title: Installing PhoneIn Intercom
 sidebar_label: /Installation Guide/installing-intercom
-slug: /Installation-Guide/Installing-Intercom
+slug: /install-intercom
 ---
 
 # Installing PhoneIn Intercom
