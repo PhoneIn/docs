@@ -1,18 +1,12 @@
 //module.exports = {
 //  someSidebar: {
-//    Docusaurus: ['home', 'getting-started', 'doc1', 'doc2', 'doc3'],
-//    Features: ['mdx'],
+//   Docusaurus: ['home', 'getting-started', 'doc1', 'doc2', 'doc3'],
+//   Features: ['mdx'],
 //  },
 //};
 
-//module.exports = {
-  someSidebar: {
-
-  }
-}
-
 module.exports = {
-  doc: [
+  docs: [
     {
       type: 'doc',
       label: 'Home',
