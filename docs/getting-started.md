@@ -2,7 +2,7 @@
 id: getting-started
 title: Getting Started with PhoneIn
 sidebar_label: Getting Started
-slug: /Getting Started
+slug: /getting-started
 keywords: phonein, phonein intercom, mobile apps, smart keys, smart intercom system
 ---
 
