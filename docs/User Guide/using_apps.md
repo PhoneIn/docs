@@ -1,0 +1,178 @@
+---
+id: using-mobile-apps
+title: Using the PhoneIn Mobile Apps
+sidebar_label: /User Guide/Using the PhoneIn Mobile Apps
+slug: /using-mobile-apps
+keywords: phonein, installing phonein mobile apps, mobile apps, smart keys
+---
+
+## Logging On to your PhoneIn Account
+
+Before you can use the PhoneIn mobile app, you need to log on to the app first.
+
+To log on to your PhoneIn account, run the **PhoneIn** mobile app, enter your email address and password, then press **Enter**.
+
+## Logging Off from your PhoneIn Account
+
+You can log off from your **PhoneIn** account on your mobile device for extra security.
+
+To log off, press the **Hamburger** menu on the top right, then press **Sign Out**.
+
+## Resetting your Password
+
+In case you forget your password, you can request for a password reset.
+
+To reset your password:
+
+1. On the mobile app's **Login** page, press **Forgot Password**.
+1. Enter your ***email address*** on the box, then press **Reset**.
+1. Go to your mailbox and click the link to change your password.
+1. Your browser opens and displays a **Change Password** page, where you need to enter your new password, then reenter it again.
+1. Click **Change Password**. You should now be able to log on to the PhoneIn app using your new credentials.
+
+## Adding a New PhoneIn Intercom
+
+When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to add a new device.
+
+> NOTE: The **PhoneIn Intercom** needs to be installed first before you can link it to your mobile device.
+
+To add a new device:
+
+1. On the Welcome page, Press **Add New Device**.
+1. Enter the ***Device Name***, then the ***Device UUID***.
+1. Press **Save** to add the device. You will also get an access key for the new device. 
+
+The name of the new device appears on the **Home** page. From here, you can view its settings.
+
+> You can also add devices from the Hamburger menu on the top right. From here, press **New Device**.
+
+## Creating a New Access Key
+
+Once you add a new device, you can create an access key that can be used to open the **PhoneIn Intercom** with your mobile device. 
+
+You can use keys to grant access to your office or residence. For example, you can provide digital keys to a house cleaner or a delivery person while you're away.
+
+> You need to share keys before other people can use them. 
+
+Keys can be one-time, multi-use, or unlimited. They can also be recurring on a regular basis, or effective only on specific dates and times.
+
+### To Create an Unlimited Key
+
+Unlimited keys are ideal for your own use since they remain valid forever. You can also create unlimited keys for other people if you want.
+
+1. On the mobile app's **Home Page**, press **New Key**.
+1. On the **New Key** page, enter a key name.
+1. Press the **Icon** button and select an applicable category for the key. The default category is ***Friend*** (you can use this if you are creating the key for your own use). The other key categories are ***Customer***, ***Services***, ***Event***, ***Delivery***, ***Renter***, and ***Employee***.
+1. By default, keys cannot open the inner door to your office or residence but are set for multiple uses.  To allow access to your inner door, toggle on the **Also Opens Inner Door** option.
+1. To set an optional welcome message for the key recipient, toggle on the **Welcome Message** button, then enter your message on the box provided.
+1. Press **Create Key**. A confirmation message is shown onscreen once the key is created.
+
+### To Create a Single-Use Key
+
+Single-use keys are set to expire after use.
+
+1. On the mobile app's **Home Page**, press **New Key**.
+1. On the **New Key** page, enter a key name.
+1. Press the **Icon** button and select an applicable category for the key. You can select from ***Friend***, ***Customer***, ***Services***, ***Event***, ***Delivery***, ***Renter***, and ***Employee***.
+1. By default, keys cannot open the inner door to your office or residence but are set for unlimited use.  To allow access to your inner door, toggle on the **Also Opens Inner Door** option.  
+1. Toggle off the **Unlimited Key** option.
+1. When you turn off the **Unlimited Key** option, a **Recurring** option takes its place, which is turned off by default.
+1. Set the start and expiry dates and times for the key. The settings are summarized once you're done. 
+1. To set a welcome message for the key recipient, toggle on the **Welcome Message** button, then enter your message on the box provided.
+1. Press **Create Key**. A confirmation message is shown onscreen once the key is created.
+
+### To Create a Recurring or Multi-Use Key
+
+Recurring keys are set for use on specific days of the week. 
+
+> Recurring keys are also known as multi-use keys.
+
+1. On the mobile app's **Home Page**, press **New Key**.
+1. On the **New Key** page, enter a key name.
+1. Press the **Icon** button and select an applicable category for the key. You can select from ***Friend***, ***Customer***, ***Services***, ***Event***, ***Delivery***, ***Renter***, and ***Employee***.
+1. By default, keys cannot open the inner door to your office or residence but are set for unlimited use.  To allow access to your inner door, toggle on the **Also Opens Inner Door** option.  
+1. Toggle off the **Unlimited Key** option.
+1. When you turn off the **Unlimited Key** option, a **Recurring** option takes its place, which is turned off by default.
+1. Toggle on the **Recurring** button, then select the days when the key will be valid.
+1. Set the start and expiry dates and times for the key. The settings are summarized once you're done. 
+1. To set a welcome message for the key recipient, toggle on the **Welcome Message** button, then enter your message on the box provided.
+1. Press **Create Key**. A confirmation message is shown onscreen once the key is created.
+
+## Sharing a Key
+
+Once you have created a key, you can share it with people who you want to grant  access to your office or residence.
+
+### To Share a Key Immediately after Its Creation
+
+Press the **Share** button that appears right after you create the key, then select from among the available sharing options.
+
+> Sharing options may vary depending on your mobile device.
+
+### To Share a Key from your Key List
+
+All keys are viewable from the **Keys** tab at the bottom of the mobile app. You can also share a key from here.
+
+1. On the mobile app's **Home** page, press the **Keys** tab.
+1. Press the Gear icon to the left of the key you want to share.
+1. Press **Share**.
+1. Select from among the available sharing options.
+
+> Sharing options may vary depending on your mobile device.
+
+## Editing a Key
+
+A key can be edited at any time.
+
+1. On the mobile app's **Home** page, press the **Keys** tab.
+1. Press the Gear icon to the left of the key you want to share.
+1. Press **Edit**.
+1. Make your changes to the key, then press **Save**.
+
+## Deleting a Key
+
+You can delete a key when it's no longer needed.
+
+1. On the mobile app's **Home** page, press the **Keys** tab.
+1. Press the Gear icon to the left of the key you want to share.
+1. Press **Delete**.
+1. On the popup, press **Delete** to confirm the operation.
+
+## Viewing the Settings of a Linked PhoneIn Intercom
+
+You can view the settings of your linked **PhoneIn Intercom** from the mobile app.
+
+1. Select the device from the list that appears on the mobile app's **Home** page. 
+> If you only have one device, its name appears on top of this list.
+1. Press the **Gear** icon to the right of the device to view the device settings, including its UUID, battery level, house number , base station, device name, inner door configuration (Yes or No) and sound volume.
+
+## Viewing your Locations
+
+If you have **PhoneIn Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
+
+To view your locations, on the mobile app's **Home** page, press the **Search** icon to display the **My Locations** page, where you will see a list of your devices.
+
+## Viewing your User Profile
+
+You can view your profile by pressing the **Hamburger** menu on the top right, then pressing **User**.
+
+## DIsabling/Enabling Call Push Notifications
+
+To disable call push notifications to prevent you from getting disturbed: 
+
+1. Press the **Hamburger** menu on the top right.
+1. Press **User**.
+1. Press **Call Push Notifications Enabled** to disable the option.
+1. Press **Save**.
+
+To re-enable call push notifications:
+
+1. Press the **Hamburger** menu on the top right
+1. Press **User**.
+1. Press **Call Push Notifications Enabled** to reenable the option.
+1. Press **Save**.
+
+## Viewing Recent Activities
+
+You can view recent activities where your keys were used at any time. This allows you to review potentially suspicious activity related to the use of your digital keys.
+
+To view recent activities related to your keys, on the mobile app's **Home** page, press the **Recent Activity** tab.

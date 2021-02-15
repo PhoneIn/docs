@@ -5,7 +5,7 @@ sidebar_label: Home
 slug: /
 ---
 
-# Introduction
+## Introduction
 
 This page contains all official PhoneIn Intercom documentation.
 
@@ -13,7 +13,7 @@ The PhoneIn Intercom hardware is controlled using either the Android or iOS mobi
 
 * Getting Started with PhoneIn
 
-# Installation Guide
+## Installation Guide
 
 The PhoneIn Intercom is installed inside your office or residence as a replacement for the existing intercom system for your building. It can also be connected to an existing strike lock for inner door access.
 
@@ -21,11 +21,10 @@ The PhoneIn Intercom is installed inside your office or residence as a replaceme
 * Installing PhoneIn Intercom
 * Connecting PhoneIn to a Strike Lock for Inner Door Access
 
-# User Guide
+## User Guide
 
-Control of your PhoneIn Intercom is done through the Android or iOS mobile apps. 
+Control of your PhoneIn Intercom is done through the PhoneIn Android or iOS mobile apps. 
 
 * Downloading and Installing the PhoneIn Mobile Apps
 * Creating a PhoneIn Account
-* Using the Android App
-* Using the iOS App
+* Using the Mobile App
