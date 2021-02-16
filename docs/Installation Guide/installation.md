@@ -2,6 +2,11 @@
 id: installing-phonein
 title: Installing PhoneIn Intercom
 sidebar_label: /Installation Guide/installing-intercom
+keywords:
+ - phonein
+ - installing phonein intercom
+ - smart intercom system
+ - smart keys
 ---
 
 # Installing PhoneIn Intercom

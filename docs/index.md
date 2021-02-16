@@ -3,6 +3,12 @@ id: home
 title: PhoneIn Docs Home
 sidebar_label: Home
 slug: /
+keywords:
+ - phonein
+ - smart intercom system
+ - installing phonein mobile apps
+ - mobile apps
+ - smart keys
 ---
 
 ## Introduction
