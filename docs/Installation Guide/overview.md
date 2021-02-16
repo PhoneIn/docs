@@ -2,7 +2,6 @@
 id: overview
 title: PhoneIn Overview
 sidebar_label: /Installation Guide/Overview
-slug: /overview
 ---
 
 # Overview
