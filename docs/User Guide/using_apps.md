@@ -1,7 +1,7 @@
 ---
 id: using-apps
 title: Using the PhoneIn Mobile Apps
-sidebar_label: /User Guide/Using the PhoneIn Mobile Apps
+sidebar_label: Using the PhoneIn Mobile Apps
 keywords: 
 - phonein
 - installing phonein mobile apps

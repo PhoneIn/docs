@@ -1,7 +1,7 @@
 ---
 id: connecting-to-a-strike_lock
 title: Connecting PhoneIn to a Strike Lock for Inner Door Access
-sidebar_label: /Installation Guide/Inner Door Access
+sidebar_label: Inner Door Access
 ---
 
 # Connecting PhoneIn to a Strike Lock for Inner Door Access

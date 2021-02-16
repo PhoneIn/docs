@@ -1,7 +1,7 @@
 ---
-id: installing-phonein
+id: connecting-to-a-strike-lock
 title: Installing PhoneIn Intercom
-sidebar_label: Intercom Installation
+sidebar_label: Connecting to a Strike Lock
 ---
 
 # Installing PhoneIn Intercom
