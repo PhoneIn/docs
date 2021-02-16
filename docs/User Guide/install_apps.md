@@ -1,5 +1,5 @@
 ---
-id: install-mobile-apps
+id: install-apps
 title: Downloading the PhoneIn Mobile Apps
 sidebar_label: /User Guide/Downloading and Installing the PhoneIn Mobile Apps
 keywords: 
