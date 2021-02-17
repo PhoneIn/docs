@@ -1,6 +1,5 @@
 ---
 id: using-apps
-title: Using the PhoneIn Mobile Apps
 sidebar_label: Using the PhoneIn Mobile Apps
 keywords: 
 - phonein

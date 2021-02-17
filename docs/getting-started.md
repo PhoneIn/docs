@@ -1,6 +1,5 @@
 ---
 id: getting-started
-title: Getting Started with PhoneIn
 sidebar_label: Getting Started
 keywords: 
  - phonein
@@ -11,6 +10,7 @@ keywords:
 ---
 
 ## What is PhoneIn?
+
 PhoneIn is a universal smart intercom system that is compatible with building door security systems. 
 
 PhoneIn has two (2) parts:
