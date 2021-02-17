@@ -8,7 +8,7 @@ keywords:
  - phonein smart intercom 
 ---
 
-The **PhoneIn Intercom** refers to the PhoneIn hardware that is installed inside your residence/office. 
+**PhoneIn Intercom** is the PhoneIn hardware that is installed inside your residence/office.
 
 ## Purchasing the Hardware
 You may purchase PhoneIn from https://www.phonein.io/buy.
