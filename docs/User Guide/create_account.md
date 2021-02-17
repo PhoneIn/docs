@@ -1,7 +1,7 @@
 ---
 id: create-account
 title: Creating a PhoneIn Account
-sidebar_label: /User Guide/Creating a PhoneIn Account
+sidebar_label: Creating a PhoneIn Account
 keywords:
  - phonein
  - creating phonein account

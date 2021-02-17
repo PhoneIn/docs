@@ -1,12 +1,7 @@
 ---
 id: overview
 title: PhoneIn Overview
-sidebar_label: /Installation Guide/Overview
-keywords:
- - phonein
- - installing phonein intercom
- - smart intercom system
- - smart keys
+sidebar_label: Installation Overview
 ---
 
 # Overview
