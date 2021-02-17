@@ -1,5 +1,6 @@
 ---
 id: home
+title: PhoneIn Documentation Home
 sidebar_label: Home
 slug: /
 keywords:
@@ -9,8 +10,6 @@ keywords:
  - mobile apps
  - smart keys
 ---
-
-## PhoneIn Documentation Home
 
 This page contains all official PhoneIn Intercom documentation.
 
