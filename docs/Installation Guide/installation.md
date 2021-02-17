@@ -4,8 +4,6 @@ title: Installing PhoneIn Intercom
 sidebar_label: Intercom Installation
 ---
 
-# Installing PhoneIn Intercom
-
 You can use **PhoneIn Intercom** for access into your building by replacing the handset that is installed inside your residence and/or office.
 
 To install PhoneIn Intercom for building access:
