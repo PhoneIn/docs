@@ -1,13 +1,12 @@
 ---
 id: overview
+title: Overview
 sidebar_label: Installation Overview
 keywords:
  - phonein
  - phonein intercom
  - phonein smart intercom 
 ---
-
-## Overview
 
 The **PhoneIn Intercom** refers to the PhoneIn hardware that is installed inside your residence/office. 
 

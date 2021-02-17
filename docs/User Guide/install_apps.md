@@ -1,5 +1,6 @@
 ---
 id: install-apps
+title: Installing the PhoneIn Mobile Apps
 sidebar_label: Installing the PhoneIn Mobile Apps
 keywords: 
  - phonein
@@ -7,8 +8,6 @@ keywords:
  - mobile apps
  - smart keys
 ---
-
-## Installing the PhoneIn Mobile Apps
 
 You need to download and install the **PhoneIn** Android and iOS mobile apps before you can open a PhoneIn account and start using the apps with your **PhoneIn** smart intercom system.
 

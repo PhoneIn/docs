@@ -1,13 +1,12 @@
 ---
 id: connecting-to-a-strike-lock
+title: Connecting PhoneIn Intercom to a Strike Lock
 sidebar_label: Connecting to a Strike Lock
 keywords:
  - phonein
  - phonein intercom
  - smart intercom
 ---
-
-## Connecting PhoneIn to a Strike Lock for Inner Door Access
 
 You can also use PhoneIn as an inner door access solution for your residence/office, if the inner door to your residence/office is a ***strike lock***. For this to work, you will need to connect/integrate PhoneIn with the strike lock.
 

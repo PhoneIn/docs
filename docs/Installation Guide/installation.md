@@ -1,13 +1,12 @@
 ---
 id: installing-phonein
+title: Installing PhoneIn Intercom
 sidebar_label: Intercom Installation
 keywords:
  - phonein
  - phonein intercom
  - phonein smart intercom 
 ---
-
-## Installing PhoneIn Intercom
 
 You can use **PhoneIn Intercom** for access into your building by replacing the handset that is installed inside your residence and/or office.
 

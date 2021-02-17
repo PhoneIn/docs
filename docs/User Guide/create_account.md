@@ -1,5 +1,6 @@
 ---
 id: create-account
+title: Creating a PhoneIn Account
 sidebar_label: Creating a PhoneIn Account
 keywords:
  - phonein
@@ -8,8 +9,6 @@ keywords:
  - mobile apps
  - smart keys
 ---
-
-## Creating a PhoneIn Account
 
 After installing the mobile app, you'll be asked to register and create a PhoneIn account so that you can link your PhoneIn Intercom to your mobile device.
 

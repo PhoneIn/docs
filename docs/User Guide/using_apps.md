@@ -1,5 +1,6 @@
 ---
 id: using-apps
+title: Using the PhoneIn Mobile Apps
 sidebar_label: Using the PhoneIn Mobile Apps
 keywords: 
 - phonein
@@ -7,6 +8,10 @@ keywords:
 - mobile apps
 - smart keys
 ---
+
+The PhoneIn mobile apps are designed to be user-friendly and intuitive.
+
+Once you have created a PhoneIn Account, you can start using the app to control your PhoneIn Intercom.
 
 ## Logging On to your PhoneIn Account
 
