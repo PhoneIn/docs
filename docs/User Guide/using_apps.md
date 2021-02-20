@@ -19,6 +19,8 @@ Before you can use the PhoneIn mobile app, you need to log on to the app first.
 
 To log on to your PhoneIn account, run the **PhoneIn** mobile app, enter your email address and password, then press **Enter**.
 
+[Logging On to the PhoneIn Mobile App](/images/login_page.jpg)
+
 ## Logging Off from your PhoneIn Account
 
 You can log off from your **PhoneIn** account on your mobile device for extra security.
@@ -45,8 +47,9 @@ When you first log on to the mobile app, you will be greeted with a welcome page
 
 To add a new device:
 
-1. On the Welcome page, Press **Add New Device**.
-1. Enter the ***Device Name***, then the ***Device UUID***.
+1. On the Welcome page, press **Add New Device**.
+1. Enter the ***Device Name***, then the ***Device UUID***.  
+[Adding a New Device for the First Time](/images/add_a_new_device.jpg)  
 1. Press **Save** to add the device. You will also get an access key for the new device. 
 
 The name of the new device appears on the **Home** page. From here, you can view its settings.
