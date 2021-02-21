@@ -19,11 +19,11 @@ You need to download and install the **PhoneIn** Android and iOS mobile apps bef
 ### To Install the PhoneIn Android App
 1. On your Android device, open Google Play Store and search for PhoneIn. 
 1. Click **Install**.
-1. Once the app is installed, click **Open**. You'll then be asked to create a **PhoneIn** account. For more information, see [Using the PhoneIn Mobile Apps](Installation Guide/using_apps.md).
+1. Once the app is installed, click **Open**. You'll then be asked to create a **PhoneIn** account. For more information, see [Using the PhoneIn Mobile Apps](using-apps).
 
 ### To Install the iOS App
 1. On your iOS device, open App Store and search for PhoneIn.
 1. Click **Install**.
-1. Once the app is installed, click **Open**. You'll then be asked to create a **PhoneIn** account. For more information, see [Using the PhoneIn Mobile Apps](Installation GUide/using_apps.md).
+1. Once the app is installed, click **Open**. You'll then be asked to create a **PhoneIn** account. For more information, see [Using the PhoneIn Mobile Apps](using-apps).
 
-> The **PhoneIn** mobile apps need access to your phone's audio for making and answer calls.
+> The **PhoneIn** mobile apps need access to your phone's audio for making and answering calls.

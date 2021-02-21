@@ -46,7 +46,7 @@ To reset your password:
 
 When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to link your installed PhoneIn device to the mobile app.
 
-> NOTE: The **PhoneIn Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing PhoneIn Intercom](../installation.md).
+> NOTE: The **PhoneIn Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing PhoneIn Intercom](InstallationGUide/installing-phonein).
 
 To add a new device:
 
@@ -58,6 +58,23 @@ To add a new device:
 The name of the new device appears on the **Home** page. From here, you can view its settings.
 
 > You can also add devices from the Hamburger menu on the top right. From here, press **New Device**.
+
+## Viewing the Settings of a Linked PhoneIn Intercom Device
+
+You can view the settings of your linked **PhoneIn Intercom** from the mobile app.
+
+1. Select the device from the list that appears on the mobile app's **Home** page. 
+> If you only have one device, its name appears on top of this list.  
+1. Press the **Gear** icon to the right of the device to view the device settings, including its UUID, battery level, house number , base station, device name, inner door configuration (Yes or No) and sound volume.  
+![A Linked PhoneIn Intercom's Settings](/img/settings_resized.jpg)  
+
+## Viewing the Locations of your PhoneIn Intercom Devices
+
+If you have **PhoneIn Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
+
+To view your locations, on the mobile app's **Home** page, press the **Search** icon to display the **My Locations** page, where you will see a list of your devices.  
+
+![Locations that can be opened with PhoneIn Keys](/img/locations_resized.jpg)  
 
 ## Creating a New Access Key
 
@@ -79,7 +96,7 @@ Unlimited keys are ideal for your own use since they remain valid forever. You c
 ![Key Cateogories](/img/icons_resized.jpg)  
 1. By default, keys are set for multiple uses.  
 ![Default Unlimited Key without Other Enabled Options](/img/unlimited_key_resized.jpg)  
-1. Press **Create Key**. A confirmation message is shown onscreen once the key is created.
+1. Press **Create Key**. A confirmation message is shown onscreen once the key is created. You can then share the key (for more information, see [Sharing a Key](#sharing-a-key)).
 
 > To allow access to your inner door, turn on the **Also Opens Inner Door** option.  
 > To set an optional welcome message for the key recipient, turn on the **Welcome Message** button, then enter your message on the box provided.
@@ -96,7 +113,7 @@ Single-use keys are set to expire after use.
 > Since you're only creating a single-use key, you don't need to turn on the disabled **Recurring** option at this time.  
 1. Set the start and expiration dates and times for the key. The settings are summarized once you're done.  ![Single Use Keys require start and expiry dates and times](/img/one-time-key-resized.jpg)  
 > By default, a welcome message for the key recipient is turned off. To set a welcome message, turn on the **Welcome Message** button, then enter your message on the box provided.
-1. Press **Create Key**. A confirmation message is shown onscreen once the key is created. You can then share the key (for more information, see [Sharing a Key](../using_apps.md#sharing-a-key)).
+1. Press **Create Key**. A confirmation message is shown onscreen once the key is created. You can then share the key (for more information, see [Sharing a Key](#sharing-a-key)).
 
 ### To Create a Recurring or Multi-Use Key
 
@@ -113,9 +130,9 @@ Recurring keys are set for use on specific days of the week.
 1. Turn on the disabled **Recurring** button that takes the place of the **Unlimited Key** option, then select the days when the key will be valid.
 1. Set the start and expiry dates and times for the key. The settings are summarized once you're done.  ![Recurring Keys are set for use on specified days of the week](/img/recurring-key-resized.jpg)  
 > By default, a welcome message for the key recipient is turned off. To set a welcome message for the key recipient, toggle on the **Welcome Message** button, then enter your message on the box provided.
-1. Press **Create Key**. A confirmation message is shown onscreen once the key is created.
+1. Press **Create Key**. A confirmation message is shown onscreen once the key is created. You can then share the key (for more information, see [Sharing a Key](#sharing-a-key)).
 
-## Sharing a Key
+## <a name="sharing-a-key"></a> Sharing a Key 
 
 Once you have created a key, you can share it with people who you want to grant  access to your office or residence.
 
@@ -170,23 +187,6 @@ You can delete a key when it's no longer needed.
 ![Press the Delete Option](/img/key_options_resized.jpg)  
 1. Press **Delete**.
 1. On the popup, press **Delete** to confirm the operation.
-
-## Viewing the Settings of a Linked PhoneIn Intercom
-
-You can view the settings of your linked **PhoneIn Intercom** from the mobile app.
-
-1. Select the device from the list that appears on the mobile app's **Home** page. 
-> If you only have one device, its name appears on top of this list.  
-1. Press the **Gear** icon to the right of the device to view the device settings, including its UUID, battery level, house number , base station, device name, inner door configuration (Yes or No) and sound volume.  
-![A Linked PhoneIn Intercom's Settings](/img/settings_resized.jpg)  
-
-## Viewing your Locations
-
-If you have **PhoneIn Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
-
-To view your locations, on the mobile app's **Home** page, press the **Search** icon to display the **My Locations** page, where you will see a list of your devices.  
-
-![Locations that can be opened with PhoneIn Keys](/img/locations_resized.jpg)  
 
 ## Viewing your User Profile
 
