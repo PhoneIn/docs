@@ -108,7 +108,7 @@ Recurring keys are set for use on specific days of the week.
 > To allow access to your inner door, turn on the **Also Opens Inner Door** option.  
 1. Turn off the **Unlimited Key** option. 
 1. Turn on the disabled **Recurring** button that takes the place of the **Unlimited Key** option, then select the days when the key will be valid.
-1. Set the start and expiry dates and times for the key. The settings are summarized once you're done.  ![Recurring Keys are set for use on specified days of the week](/img/recurring-key-resized)  
+1. Set the start and expiry dates and times for the key. The settings are summarized once you're done.  ![Recurring Keys are set for use on specified days of the week](/img/recurring-key-resized.jpg)  
 > By default, a welcome message for the key recipient is turned off. To set a welcome message for the key recipient, toggle on the **Welcome Message** button, then enter your message on the box provided.
 1. Press **Create Key**. A confirmation message is shown onscreen once the key is created.
 
