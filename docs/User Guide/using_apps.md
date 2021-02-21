@@ -1,6 +1,7 @@
 ---
 id: using-apps
 title: Using the PhoneIn Mobile Apps
+hide_title: "true"
 sidebar_label: Using the PhoneIn Mobile Apps
 keywords: 
 - phonein
@@ -8,6 +9,8 @@ keywords:
 - mobile apps
 - smart keys
 ---
+
+## Using the PhoneIn Mobile Apps
 
 The PhoneIn mobile apps are designed to be user-friendly and intuitive.
 

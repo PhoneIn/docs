@@ -1,12 +1,15 @@
 ---
 id: installing-phonein
 title: Installing PhoneIn Intercom
+hide_title: "true"
 sidebar_label: Intercom Installation
 keywords:
  - phonein
  - phonein intercom
  - phonein smart intercom 
 ---
+
+## Installing PhoneIn Intercom
 
 You can use **PhoneIn Intercom** for access into your building by replacing the handset that is installed inside your residence and/or office.
 
@@ -20,5 +23,4 @@ To install PhoneIn Intercom for building access:
 1. Attach the wires to the indicated spots on the PhoneIn device. ( need more info here )  
 1. Attach the case to the wall. ( need more info here )
 
-> You can also connect **PhoneIn Intercom** to a strike lock for inner door access to your residence and/or office. For more information, see Connecting PhoneIn to a Strike Lock for Inner Door Access.
-{.is-info}
+> You can also connect **PhoneIn Intercom** to a strike lock for inner door access to your residence and/or office. For more information, see [Connecting PhoneIn Intercom to a Strike Lock](installation guide/inner_door_access.md).
