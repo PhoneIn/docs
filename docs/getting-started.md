@@ -1,6 +1,7 @@
 ---
 id: getting-started
 title: Getting Started
+hide_title: "true"
 sidebar_label: Getting Started
 keywords: 
  - phonein
