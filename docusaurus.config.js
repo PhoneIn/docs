@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'PhoneIn Documentation',
+  tagline: 'PhoneIn Documentation',
+  url: 'https://docs.phonein.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -12,8 +12,8 @@ module.exports = {
     navbar: {
       title: 'PhoneIn Docs',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'PhoneIn Logo',
+        src: 'img/Phonein_logo.svg',
       },
       items: [
         // {
@@ -24,7 +24,7 @@ module.exports = {
         // },
         // { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/phonein/docs',
           label: 'GitHub',
           position: 'right',
         },

@@ -1,5 +1,5 @@
 ---
-id: home
+id: Home
 title: PhoneIn Documentation Home
 hide_title: "true"
 sidebar_label: Home
@@ -22,7 +22,7 @@ The PhoneIn Intercom hardware is controlled using either the Android or iOS mobi
 
 The PhoneIn Intercom is installed inside your office or residence as a replacement for the existing intercom system for your building. It can also be connected to an existing strike lock for inner door access.
 
-* [Overview](InstallationGuide/overview)
+* [Installation Overview](InstallationGuide/overview)
 * [Installing PhoneIn Intercom](InstallationGuide/installing-phonein)
 * [Connecting PhoneIn to a Strike Lock](InstallationGUide/connecting-to-a-strike-lock)
 

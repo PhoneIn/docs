@@ -1,8 +1,18 @@
 module.exports = {
-  someSidebar: {
-    'Home': ['home'],
-    'Getting Started': ['getting-started'],
-    'Installation Guide': ['InstallationGuide/overview', 'InstallationGuide/installing-phonein', 'InstallationGuide/connecting-to-a-strike-lock'],
-    'User Guide': ['UserGuide/install-apps', 'UserGuide/create-account', 'UserGuide/using-apps'],
-  },
+  someSidebar: [
+    'Home',
+    'Getting Started',
+    {
+      type: 'category',
+      label: 'Installation Guide',
+      collapsed: false,
+      items: ['InstallationGuide/overview', 'InstallationGuide/installing-phonein', 'InstallationGuide/connecting-to-a-strike-lock'],
+    },
+    {
+      type: 'category',
+      label: 'User Guide',
+      collapsed: false,
+      items: ['UserGuide/install-apps', 'UserGuide/create-account', 'UserGuide/using-apps'],
+    },
+  ],
 };
