@@ -12,7 +12,7 @@ keywords:
  - smart keys
 ---
 
-This page contains all official PhoneIn Intercom documentation.
+This page contains all official PhoneIn Smart Intercom documentation.
 
 The PhoneIn Intercom hardware is controlled using either the Android or iOS mobile apps. The hardware is easy to install and the mobile apps easy to use.
 
