@@ -14,6 +14,9 @@ keywords:
 
 The PhoneIn mobile apps are designed to be user-friendly and intuitive.
 
+<!-- Here, you can include the information about accepting the permissions requests for the microphone, which is necessary as it is needed for to be able to speak to the guests, and the user's location, which we need to auto fill the wifi SSID and make wifi configuration a bit easier, but is not necessary. -->
+
+<!-- when creating an account, first go to "create account", enter a username / password, conf password, then check your email, click confirm, come back and then you're in. -->
 Once you have created a PhoneIn Account, you can start using the app to control your PhoneIn Intercom.
 
 ## Logging On to your PhoneIn Account
