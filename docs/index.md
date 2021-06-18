@@ -25,6 +25,7 @@ The PhoneIn Intercom is installed inside your office or residence as a replaceme
 * [Installation Overview](InstallationGuide/overview)
 * [Installing PhoneIn Intercom](InstallationGuide/installing-phonein)
 * [Connecting PhoneIn to a Strike Lock](InstallationGUide/connecting-to-a-strike-lock)
+* [Setting up a WIFI connection](InstallationGUide/wifi)
 
 ## User Guide
 
