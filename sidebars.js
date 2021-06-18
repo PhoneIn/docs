@@ -12,7 +12,7 @@ module.exports = {
       type: 'category',
       label: 'Installation Guide',
       collapsed: true,
-      items: ['InstallationGuide/overview', 'InstallationGuide/installing-phonein', 'InstallationGuide/connecting-to-a-strike-lock'],
+      items: ['InstallationGuide/overview', 'InstallationGuide/installing-phonein', 'InstallationGuide/connecting-to-a-strike-lock', 'InstallationGuide/wifi'],
     },
     {
       type: 'category',
