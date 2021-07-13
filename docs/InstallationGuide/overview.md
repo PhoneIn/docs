@@ -11,22 +11,30 @@ keywords:
 
 ## Installation Overview
 
-**PhoneIn Intercom** is the PhoneIn hardware that is installed inside your residence/office. In most cases, it will fully replace your intercom phone. With PhoneIn you will have all the functionality of your old intercom, including being able to speak to the guest and buzz them in directly from the device, but also you have the additional smart features used from your smart phone.
+**Phonein Intercom** is the Phonein hardware that is installed inside your residence/office. In most cases, it will fully replace your intercom phone. With Phonein you will have all the functionality of your old intercom, including being able to speak to the guest and buzz them in directly from the device, but also you have the additional smart features used from your smart phone.
 
 ## Purchasing the Hardware
-You may purchase PhoneIn from https://www.phonein.io/buy.
+You may purchase Phonein from https://www.phonein.io/buy.
 
-## What's Inside the Box?
-Your PhoneIn hardware comes with the following:
-- The PhoneIn Device
-- A ID card with a QR code
-- A Small screwdriver kit 
-- Extra wires
-- A power charger
+## What you'll find in the Box?
+Your Phonein hardware comes with the following:
+- The Phonein Device:
+    - On the back you’ll find the QR code, necessary for activating your device.
+- Wall mount: 
+    - With this you can install your PhoneIn on the wall, either by using the sticky tape or screws for a more secure installation.
+- Wall charger: 
+    - Phonein has an internal battery, so you don’t need to leave it plugged in to the wall. However, the device is faster if it’s powered through the charger, so if you can leave it plugged in, that’s even better and we recommend it!
+- Screwdriver and wires:
+    - You can use these to install your Phonein. For details, please see the installation guide.
+
+## WARNING!
+This version of PhoneIn is a beta device, which means that it’s still under development.
+We work very hard, to make it better and better, so if you experience any problems with your Phonein device, please contact us at contact@phonein.io
+
 ## Parts of the Hardware
 
-When you unbox your PhoneIn Intercom, you will notice a set of buttons on the front of the hardware. These buttons have the following functions:
-<!-- I think this section about the buttons of the phonein device should be in another section about using the phonein, rather than installing, sound good or what do you think? -->
+When you unbox your Phonein Intercom, you will notice a set of buttons on the front of the hardware. These buttons have the following functions:
+<!-- I think this section about the buttons of the Phonein device should be in another section about using the Phonein, rather than installing, sound good or what do you think? -->
 
 <!-- Would be good to include images of the icons. I can provide those. -->
 
@@ -38,7 +46,7 @@ When you unbox your PhoneIn Intercom, you will notice a set of buttons on the fr
 * Volume Up
 * Reboot / Wake Up
 
-<!-- There is some additional text for each of these. For instance, I would like to talk about the wifi reset procedure which is rather lengthy. Also fo rthe Answer / Open, I'd like to talk more about when each one happens. And for volume Up / Down, it depends on which mode the phonein is in. 
+<!-- There is some additional text for each of these. For instance, I would like to talk about the wifi reset procedure which is rather lengthy. Also fo rthe Answer / Open, I'd like to talk more about when each one happens. And for volume Up / Down, it depends on which mode the Phonein is in. 
 
 Where should we include this extra text? Can we link them each to their own section?
 

@@ -1,35 +1,35 @@
 ---
 id: using-apps
-title: Using the PhoneIn Mobile Apps
+title: Using the Phonein Mobile Apps
 hide_title: "true"
-sidebar_label: Using the PhoneIn Mobile Apps
+sidebar_label: Using the Phonein Mobile Apps
 keywords: 
 - phonein
-- installing phonein mobile apps
+- installing Phonein mobile apps
 - mobile apps
 - smart keys
 ---
 
-## Using the PhoneIn Mobile Apps
+## Using the Phonein Mobile Apps
 
-The PhoneIn mobile apps are designed to be user-friendly and intuitive.
+The Phonein mobile apps are designed to be user-friendly and intuitive.
 
 <!-- Here, you can include the information about accepting the permissions requests for the microphone, which is necessary as it is needed for to be able to speak to the guests, and the user's location, which we need to auto fill the wifi SSID and make wifi configuration a bit easier, but is not necessary. -->
 
 <!-- when creating an account, first go to "create account", enter a username / password, conf password, then check your email, click confirm, come back and then you're in. -->
-Once you have created a PhoneIn Account, you can start using the app to control your PhoneIn Intercom.
+Once you have created a Phonein Account, you can start using the app to control your Phonein Intercom.
 
-## Logging On to your PhoneIn Account
+## Logging On to your Phonein Account
 
-Before you can use the PhoneIn mobile app, you need to log on to the app first.
+Before you can use the Phonein mobile app, you need to log on to the app first.
 
-To log on to your PhoneIn account, run the **PhoneIn** mobile app, enter your email address and password, then press **Enter**.
+To log on to your Phonein account, run the **Phonein** mobile app, enter your email address and password, then press **Enter**.
 
-![Logging On to the PhoneIn Mobile App](/img/login_page.jpg)
+![Logging On to the Phonein Mobile App](/img/login_page.jpg)
 
-## Logging Off from your PhoneIn Account
+## Logging Off from your Phonein Account
 
-You can log off from your **PhoneIn** account on your mobile device for extra security.
+You can log off from your **Phonein** account on your mobile device for extra security.
 
 To log off, press the **Hamburger** menu on the top right, then press **Sign Out**.
 
@@ -43,13 +43,13 @@ To reset your password:
 1. Enter your ***email address*** on the box, then press **Reset**.
 1. Go to your mailbox and click the link to change your password.
 1. Your browser opens and displays a **Change Password** page, where you need to enter your new password, then reenter it again.
-1. Click **Change Password**. You should now be able to log on to the PhoneIn app using your new credentials.
+1. Click **Change Password**. You should now be able to log on to the Phonein app using your new credentials.
 
-## Adding a PhoneIn Intercom Device to the Mobile App
+## Adding a Phonein Intercom Device to the Mobile App
 
-When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to link your installed PhoneIn device to the mobile app.
+When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to link your installed Phonein device to the mobile app.
 
-> NOTE: The **PhoneIn Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing PhoneIn Intercom](InstallationGUide/installing-phonein).
+> NOTE: The **Phonein Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing Phonein Intercom](InstallationGUide/installing-Phonein).
 
 To add a new device:
 
@@ -62,26 +62,26 @@ The name of the new device appears on the **Home** page. From here, you can view
 
 > You can also add devices from the Hamburger menu on the top right. From here, press **New Device**.
 
-## Viewing the Settings of a Linked PhoneIn Intercom Device
+## Viewing the Settings of a Linked Phonein Intercom Device
 
-You can view the settings of your linked **PhoneIn Intercom** from the mobile app.
+You can view the settings of your linked **Phonein Intercom** from the mobile app.
 
 1. Select the device from the list that appears on the mobile app's **Home** page. 
 > If you only have one device, its name appears on top of this list.  
 1. Press the **Gear** icon to the right of the device to view the device settings, including its UUID, battery level, house number , base station, device name, inner door configuration (Yes or No) and sound volume.  
-![A Linked PhoneIn Intercom's Settings](/img/settings_resized.jpg)  
+![A Linked Phonein Intercom's Settings](/img/settings_resized.jpg)  
 
-## Viewing the Locations of your PhoneIn Intercom Devices
+## Viewing the Locations of your Phonein Intercom Devices
 
-If you have **PhoneIn Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
+If you have **Phonein Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
 
 To view your locations, on the mobile app's **Home** page, press the **Search** icon to display the **My Locations** page, where you will see a list of your devices.  
 
-![Locations that can be opened with PhoneIn Keys](/img/locations_resized.jpg)  
+![Locations that can be opened with Phonein Keys](/img/locations_resized.jpg)  
 
 ## Creating a New Access Key
 
-Once you add a new device, you can create an access key that can be used to open the **PhoneIn Intercom** with your mobile device. 
+Once you add a new device, you can create an access key that can be used to open the **Phonein Intercom** with your mobile device. 
 
 You can use keys to grant access to your office or residence. For example, you can provide digital keys to a house cleaner or a delivery person while you're away.
 
@@ -159,13 +159,13 @@ All keys are viewable from the **Keys** tab at the bottom of the mobile app. You
 
 ## Using a Key to Unlock and Open a Door
 
-You can unlock doors using the access keys generated from the PhoneIn mobile app. For example, you can generate a key for your house and another for your office. When you're on your walking to your door, you can already unlock it by tapping the assigned key on the mobile app instead of fishing out your physical keys out from your bag or purse.
+You can unlock doors using the access keys generated from the Phonein mobile app. For example, you can generate a key for your house and another for your office. When you're on your walking to your door, you can already unlock it by tapping the assigned key on the mobile app instead of fishing out your physical keys out from your bag or purse.
 
 If you only generated a single key, it will be prominently displayed on the mobile app's **Welcome** page. Press the key to open a door. 
 
 You can also retrieve a key by pressing the **Keys** tab, then tapping on it from the list.
 
-Guests must download and install the appropriate PhoneIn mobile app for their devices to use your shared keys and let themselves inside the assigned location.
+Guests must download and install the appropriate Phonein mobile app for their devices to use your shared keys and let themselves inside the assigned location.
 
 ## Allowing a Key to Unlock and Open an Inner Door
 
