@@ -49,7 +49,7 @@ To reset your password:
 
 When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to link your installed Phonein device to the mobile app.
 
-> NOTE: The **Phonein Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing Phonein Intercom](InstallationGUide/installing-Phonein).
+> NOTE: The **Phonein Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing Phonein Intercom](InstallationGuide/installing-phonein).
 
 To add a new device:
 

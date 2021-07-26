@@ -1,5 +1,5 @@
 ---
-id: installing-Phonein
+id: installing-phonein
 title: Installing Phonein Intercom
 hide_title: "true"
 sidebar_label: Intercom Installation
@@ -40,7 +40,7 @@ You can use your Phonein Intercom either by replacing the old intercom, or setti
 
 1. Open your old intercom!
     1. Usually these intercoms are held together by screws, unscrew these to open the old intercom.
-    2. If you don’t see any screws, you try inserting a screwdriver into the seam on the side of the intercom, and gently prying it open.
+    2. If you don’t see any screws, try inserting a screwdriver into the seam on the side of the intercom, and gently pry it open.
 2. Take pictures of the inside of your intercom now!
     1. If you need to move things back for any reason, this picture will help you remember what goes where.
     2. Make sure you have clear pictures of the wires, and where they connect to the old intercom!
