@@ -20,5 +20,6 @@ module.exports = {
       collapsed: true,
       items: ['UserGuide/install-apps', 'UserGuide/create-account', 'UserGuide/using-apps'],
     },
+    'Troubleshooting',
   ],
 };
