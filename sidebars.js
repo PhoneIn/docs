@@ -6,7 +6,7 @@ module.exports = {
       type: 'category',
       label: 'FAQ',
       collapsed: true,
-      items: ['FAQ/general', 'FAQ/hosting', 'FAQ/office'],
+      items: ['FAQ/general', 'FAQ/hosting', 'FAQ/office', 'FAQ/compatibility'],
     },
     {
       type: 'category',
