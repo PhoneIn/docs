@@ -39,7 +39,7 @@ You can use your Phonein Intercom either by replacing the old intercom, or setti
 # Installation steps
 
 1. Open your old intercom.  
-<img src="/img/Removed_2_1.gif" width="500" /><br/>
+    <img src="/img/Removed_2_1.gif" width="500" /><br/>
     1. Usually these intercoms are held together by screws, unscrew these to open the old intercom.
     2. If you don’t see any screws, try inserting a screwdriver into the seam on the side of the intercom, and gently pry it open.
  
@@ -55,11 +55,11 @@ You can use your Phonein Intercom either by replacing the old intercom, or setti
 4. Decision time.
     You can complitely replace your old intercom with Phonein. Along with the cool new features, Phonein can also be used for answering locally when someone rings your flat, just as your old intercom.
     1. If you want to replace your old intercom with Phonein:  
-    <img src="/img/Removed_2_2.gif" width="500" /><br/>
+        <img src="/img/Removed_2_2.gif" width="500" /><br/>
         1. Remove the wires from the terminal.
         2. Remove the old intercom from the wall
     2. If you want to set up your Phonein parallel to the old intercom:  
-    <img src="/img/Stayon_2_2.gif" width="500" /><br/>
+        <img src="/img/Stayon_2_2.gif" width="500" /><br/>
         1. Add the supplied extra wires right next to the existing ones, inside the terminal on your old intercom.
         2. Lead the new wire out (there usually is a little place for it, where the handset wire exits the housing)
         3. Close the old intercom.
@@ -71,7 +71,7 @@ You can use your Phonein Intercom either by replacing the old intercom, or setti
     3. If it’s a 5 wire system, please read the wire guide, which will explain which wire goes where in the connector. These wires are NOT interchangeable.  
 
 6. Install the Phonein wall mount.  
-<img src="/img/Removed_2_4.gif" width="500" /><br/>
+    <img src="/img/Removed_2_4.gif" width="500" /><br/>
     1. You can use the sticky tape on the wall mount, but for a secure installation, we recommend screwing it to the wall, with the provided screws.
 
 7. Plug in the connector into the Phonein.  
