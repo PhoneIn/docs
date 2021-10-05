@@ -17,7 +17,7 @@ keywords:
 You may purchase Phonein from https://www.phonein.io/buy.
 
 ## What you'll find in the Box?
-<img src="/img/phonein_box_overview" width="500" /><br/>
+<img src="/img/phonein_box_overview.jpg" width="500" /><br/>
 
 Your Phonein hardware comes with the following:
 - The Phonein Device:
