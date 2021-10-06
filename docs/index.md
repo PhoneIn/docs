@@ -33,7 +33,7 @@ Control of your Phonein Intercom is done through the Phonein Android or iOS mobi
 
 * [Installing the Phonein Mobile app](UserGuide/install-app)
 * [Creating a Phonein Account](UserGuide/create-account)
-* [Using the Phonein Mobile app](UserGUide/using-app)
+* [Using the Phonein Mobile app](UserGUide/using_app)
 
 ## Troubleshooting
 

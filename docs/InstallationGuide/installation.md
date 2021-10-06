@@ -89,7 +89,7 @@ You can complitely replace your old intercom with Phonein. Along with the cool n
 
 DONE!
 
-Now please follow the steps in the [User Guide](UserGUide/using-app)!
+Now please follow the steps in the [User Guide](UserGUide/using_app)!
 
 
 > You can also connect **Phonein Intercom** to a strike lock for smart door access to your residence and/or office. For more information, see [Connecting Phonein Intercom to a Strike Lock](connecting-to-a-strike-lock).

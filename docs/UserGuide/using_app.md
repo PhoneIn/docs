@@ -1,5 +1,5 @@
 ---
-id: using-app
+id: using_app
 title: Using the Phonein Mobile App
 hide_title: "true"
 sidebar_label: Using the Phonein Mobile App

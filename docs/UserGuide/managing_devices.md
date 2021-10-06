@@ -1,8 +1,8 @@
 ---
-id: handling_devices
-title: Handling Phonein devices in the App
+id: managing_devices
+title: Managing Phonein devices in the App
 hide_title: "true"
-sidebar_label: Handling Phonein devices in the App
+sidebar_label: Managing Phonein devices in the App
 keywords: 
 - phonein
 - installing Phonein mobile app

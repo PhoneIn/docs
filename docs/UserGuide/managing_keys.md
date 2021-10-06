@@ -1,8 +1,8 @@
 ---
-id: handling_keys
-title: Handling Keys in the Phonein Mobile App
+id: managing_keys
+title: Managing Keys in the Phonein Mobile App
 hide_title: "true"
-sidebar_label: andling Keys in the Phonein Mobile App
+sidebar_label: Managing Keys in the App
 keywords: 
 - phonein
 - installing Phonein mobile app
