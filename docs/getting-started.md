@@ -6,7 +6,7 @@ sidebar_label: Getting Started
 keywords: 
  - phonein
  - phonein intercom
- - mobile apps
+ - mobile app
  - smart keys
  - smart intercom system
 ---
@@ -18,7 +18,7 @@ Phonein is a universal smart intercom system that is compatible with building do
 Phonein has two (2) parts:
 
 1. The Phonein intercom, or hardware
-2. The Phonein mobile apps for Android and iOS
+2. The Phonein mobile app for Android and iOS
 
 Once you have installed a Phonein device in your office or residence, you can open your door using your mobile device. You can also use Phonein to allow guests or employees access to your building or residence/office.
 
@@ -48,9 +48,9 @@ Before purchasing a Phonein Intercom, make sure that:
 
 * Phonein Go - The second version of the Phonein Smart Intercom device. Estimated shipping end of 2021.
 
-### Mobile Apps
+### Mobile app
 
-Both Phonein Android and iOS mobile apps are currently undergoing internal testing.
+Both Phonein Android and iOS mobile app are currently undergoing internal testing.
 
 ## Getting Support
-If you encounter any issues while using your Phonein Intercom or the Phonein mobile apps, you may get in touch with [Phonein customer support](mailto:contact@phonein.io) for assistance.
+If you encounter any issues while using your Phonein Intercom or the Phonein mobile app, you may get in touch with [Phonein customer support](mailto:contact@phonein.io) for assistance.

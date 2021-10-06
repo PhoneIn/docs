@@ -7,14 +7,14 @@ slug: /
 keywords:
  - phonein
  - smart intercom system
- - installing phonein mobile apps
- - mobile apps
+ - installing phonein mobile app
+ - mobile app
  - smart keys
 ---
 
 This page contains all official Phonein Smart Intercom documentation.
 
-The Phonein Intercom hardware is controlled using either the Android or iOS mobile apps. The hardware is easy to install and the mobile apps easy to use.
+The Phonein Intercom hardware is controlled using either the Android or iOS mobile app. The hardware is easy to install and the mobile app easy to use.
 
 * [Getting Started with Phonein](getting-started)
 
@@ -29,11 +29,11 @@ The Phonein Intercom is installed inside your office or residence as a replaceme
 
 ## User Guide
 
-Control of your Phonein Intercom is done through the Phonein Android or iOS mobile apps. 
+Control of your Phonein Intercom is done through the Phonein Android or iOS mobile app. 
 
-* [Installing the Phonein Mobile Apps](UserGuide/install-apps)
+* [Installing the Phonein Mobile app](UserGuide/install-app)
 * [Creating a Phonein Account](UserGuide/create-account)
-* [Using the Phonein Mobile Apps](UserGUide/using-apps)
+* [Using the Phonein Mobile app](UserGUide/using-app)
 
 ## Troubleshooting
 

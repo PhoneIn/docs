@@ -6,8 +6,8 @@ sidebar_label: Creating a Phonein Account
 keywords:
  - phonein
  - creating Phonein account
- - installing Phonein mobile apps
- - mobile apps
+ - installing Phonein mobile app
+ - mobile app
  - smart keys
 ---
 
@@ -22,4 +22,4 @@ To create a Phonein Account:
 ![Phonein Registration Page](/img/registration_edited.jpg)  
 1. Click **Create**.
 1. Go to your mailbox and confirm your account. 
-1. Log on to the mobile app using the credentials you entered in Step 2. You can now link your mobile device and Phonein Intercom. For more information, see [Using the Phonein Mobile Apps](using-apps).
+1. Log on to the mobile app using the credentials you entered in Step 2. You can now link your mobile device and Phonein Intercom. For more information, see [Using the Phonein Mobile app](using-app).
