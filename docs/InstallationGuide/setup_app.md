@@ -34,7 +34,7 @@ After installing the mobile app, you'll be asked to register and create a Phonei
 To create a Phonein Account:
 
 1. Run the app installed on your mobile device.
-1. On the **Registration** page, enter your ***email address*** and nominate a ***password***, then reenter your password again.  
+1. On the **Registration** page, enter your ***email address*** and ***password***, then reenter your password again.  
 ![Phonein Registration Page](/img/registration_edited.jpg)  
 1. Click **Create**.
 1. Go to your mailbox and confirm your account. 

@@ -11,22 +11,23 @@ keywords:
 ---
 
 
-## Adding a Phonein Intercom Device to the Mobile App
+## Adding additional Phonein devices to the Mobile App
 
-When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to link your installed Phonein device to the mobile app.
+If you have multiple Phonein devices, you can connect your account to them.
 
-> NOTE: The **Phonein Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing Phonein Intercom](InstallationGuide/installing-phonein).
-
-To add a new device:
-
-1. On the Welcome page, press **Add New Device**.
+1. On the **Home** page press the Hamburger menu on the top right.
+1. Press **New Device**.
 1. Enter the ***Device Name***, then the ***Device UUID***.  
 ![Adding a New Device for the First Time](/img/add_a_new_device.jpg)  
-1. Press **Save** to add the device. You will also get an access key for the new device. 
+1. Press **Save** to add the device. 
 
-The name of the new device appears on the **Home** page. From here, you can view its settings.
+## Viewing the Locations of your Phonein Intercom Devices
 
-> You can also add devices from the Hamburger menu on the top right. From here, press **New Device**.
+If you have **Phonein Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
+
+To view your locations, on the mobile app's **Home** page, press the **Search** icon to display the **My Locations** page, where you will see a list of your devices.  
+
+![Locations that can be opened with Phonein Keys](/img/locations_resized.jpg)  
 
 ## Viewing the Settings of a Linked Phonein Intercom Device
 
@@ -36,14 +37,6 @@ You can view the settings of your linked **Phonein Intercom** from the mobile ap
 > If you only have one device, its name appears on top of this list.  
 1. Press the **Gear** icon to the right of the device to view the device settings, including its UUID, battery level, house number , base station, device name, inner door configuration (Yes or No) and sound volume.  
 ![A Linked Phonein Intercom's Settings](/img/settings_resized.jpg)  
-
-## Viewing the Locations of your Phonein Intercom Devices
-
-If you have **Phonein Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
-
-To view your locations, on the mobile app's **Home** page, press the **Search** icon to display the **My Locations** page, where you will see a list of your devices.  
-
-![Locations that can be opened with Phonein Keys](/img/locations_resized.jpg)  
 
 ## Viewing Recent Activities
 

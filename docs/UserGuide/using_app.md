@@ -49,7 +49,7 @@ To reset your password:
 
 You can view your profile by pressing the **Hamburger** menu on the top right, then pressing **User**.
 
-## DIsabling/Enabling Call Push Notifications
+## Disabling/Enabling Call Push Notifications
 
 To disable call push notifications to prevent you from getting disturbed: 
 
