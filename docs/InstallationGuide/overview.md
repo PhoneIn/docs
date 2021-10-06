@@ -43,13 +43,13 @@ When you unbox your Phonein Intercom, you will notice a set of buttons on the fr
 
 <!-- Would be good to include images of the icons. I can provide those. -->
 
-* Wifi Reset: Press and hold for two (2) seconds.
-* Factory Reset: Press and hold for 10 seconds.
-* Answer / Open: Answer the call, then open the door.
-* Reject: Reject access.
-* Volume Down
-* Volume Up
-* Reboot / Wake Up
+* <img src="/img/icon_wifi.jpg" width="100" /> Wifi Reset: Press and hold for two (2) seconds.
+* <img src="/img/icon_update.jpg" width="100" /> Update / Factory Reset: Press to check for updates. Press and hold for 10 seconds to reset to factory version.
+* <img src="/img/icon_answer.jpg" width="100" /> Answer / Open: Answer the call, then open the door.
+* <img src="/img/icon_end.jpg" width="100" /> Reject: Reject access.
+* <img src="/img/icon_down.jpg" width="100" /> Volume Down
+* <img src="/img/icon_up.jpg" width="100" /> Volume Up
+* <img src="/img/icon_reset.jpg" width="100" /> Reboot / Wake Up
 
 <!-- There is some additional text for each of these. For instance, I would like to talk about the wifi reset procedure which is rather lengthy. Also fo rthe Answer / Open, I'd like to talk more about when each one happens. And for volume Up / Down, it depends on which mode the Phonein is in. 
 
