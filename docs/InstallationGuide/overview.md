@@ -36,6 +36,8 @@ Your Phonein hardware comes with the following:
 This version of PhoneIn is a beta device, which means that it’s still under development.
 We work very hard, to make it better and better, so if you experience any problems with your Phonein device, please contact us at contact@phonein.io
 
+Please follow the [Installation guide](/InstallationGuide/installing_phonein) to set up your Phonein device.
+
 ## Parts of the Hardware
 
 When you unbox your Phonein Intercom, you will notice a set of buttons on the front of the hardware. These buttons have the following functions:

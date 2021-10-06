@@ -1,8 +1,8 @@
 ---
-id: installing-phonein
+id: installing_phonein
 title: Installing Phonein Intercom
 hide_title: "true"
-sidebar_label: Intercom Installation
+sidebar_label: Phonein Intercom Installation
 keywords:
  - phonein
  - phonein intercom
@@ -89,7 +89,7 @@ You can complitely replace your old intercom with Phonein. Along with the cool n
 
 DONE!
 
-Now please follow the steps in the [User Guide](UserGUide/using_app)!
+Now please follow the steps on the next page to [Set up the Phonein App](/InstallationGuide/setup_app)!
 
 
-> You can also connect **Phonein Intercom** to a strike lock for smart door access to your residence and/or office. For more information, see [Connecting Phonein Intercom to a Strike Lock](connecting-to-a-strike-lock).
+> You can also connect **Phonein Intercom** to a strike lock for smart door access to your residence and/or office. For more information, see [Connecting Phonein Intercom to a Strike Lock](/connecting-to-a-strike-lock).

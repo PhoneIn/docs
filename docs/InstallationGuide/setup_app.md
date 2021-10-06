@@ -17,12 +17,12 @@ You need to download and install the **Phonein** Android and iOS mobile app befo
 ### To Install the Phonein Android App
 1. On your Android device, open Google Play Store and search for Phonein. 
 1. Click **Install**.
-1. Once the app is installed, click **Open**. You'll then be asked to create a **Phonein** account. For more information, see [Using the Phonein Mobile app](using_app).
+1. Once the app is installed, click **Open**. You'll then be asked to create a **Phonein** account. 
 
 ### To Install the iOS App
 1. On your iOS device, open App Store and search for Phonein.
 1. Click **Install**.
-1. Once the app is installed, click **Open**. You'll then be asked to create a **Phonein** account. For more information, see [Using the Phonein Mobile app](using_app).
+1. Once the app is installed, click **Open**. You'll then be asked to create a **Phonein** account. 
 
 > The **Phonein** mobile app need access to your phone's audio for making and answering calls.
 <!-- Here, you can include the information about accepting the permissions requests for the microphone, which is necessary as it is needed for to be able to speak to the guests, and the user's location, which we need to auto fill the wifi SSID and make wifi configuration a bit easier, but is not necessary. Whichever items are listed when you install the app. -->
@@ -38,13 +38,15 @@ To create a Phonein Account:
 ![Phonein Registration Page](/img/registration_edited.jpg)  
 1. Click **Create**.
 1. Go to your mailbox and confirm your account. 
-1. Log on to the mobile app using the credentials you entered in Step 2. You can now link your mobile device and Phonein Intercom. For more information, see [Using the Phonein Mobile app](using_app).
+1. Log on to the mobile app using the credentials you entered in Step 2.
+
+You can now link your mobile device and Phonein Intercom. 
 
 ## Adding a Phonein Intercom Device to the Mobile App
 
 When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to link your installed Phonein device to the mobile app.
 
-> NOTE: The **Phonein Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing Phonein Intercom](InstallationGuide/installing-phonein).
+> NOTE: The **Phonein Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing Phonein Intercom](/InstallationGuide/installing_phonein).
 
 To add a new device:
 
@@ -64,3 +66,23 @@ For connecting your Phonein device to your wifi network, you will only need your
 1. Press the **Hamburger** menu on the top right.
 1. Press **Setup Wifi**.
 1. Follow the steps on the **Wifi Provisioning** page in the app.
+
+## Set up your doorbell system type and doorbell number
+
+The final step before you can finally use your Phonein device, is to tell it your doorphone system type, and doorbell number.
+
+To set up your system type:
+1. Press the **Gear** icon to the right of the device to view the device settings.
+1. Press the arrow next to the **Base Station** tab.
+1. Choose your system type from the list.
+1. Press **Save**.
+
+To set up your doorbell number:
+1. Press the **Gear** icon to the right of the device to view the device settings.
+1. Press the arrow next to the **Flat number** tab.
+1. Type in your doorbell number (the number you type in on the basestation, when you want to ring your flat).
+1. Press **Save**.
+
+
+Your Phonein device is now ready to be used!
+Please check out the [User Guide](/UserGuide/using_app) for more information about the Phonein App.
