@@ -7,36 +7,39 @@ slug: /
 keywords:
  - phonein
  - smart intercom system
- - installing phonein mobile apps
- - mobile apps
+ - installing phonein mobile app
+ - mobile app
  - smart keys
 ---
 
+# Phonein documentation
+
 This page contains all official Phonein Smart Intercom documentation.
 
-The Phonein Intercom hardware is controlled using either the Android or iOS mobile apps. The hardware is easy to install and the mobile apps easy to use.
+The Phonein Intercom hardware is controlled using either the Android or iOS mobile app. The hardware is easy to install and the mobile app easy to use.
 
-* [Getting Started with Phonein](getting-started)
+* [More information about Phonein](/about_phonein)
 
 ## Installation Guide
 
 The Phonein Intercom is installed inside your office or residence as a replacement for the existing intercom system for your building. It can also be connected to an existing strike lock for inner door access.
 
-* [Installation Overview](InstallationGuide/overview)
-* [Installing Phonein Intercom](InstallationGuide/installing-phonein)
-* [Connecting Phonein to a Strike Lock](InstallationGUide/connecting-to-a-strike-lock)
-* [Setting up a WIFI connection](InstallationGUide/wifi)
+* [Installation Overview](/InstallationGuide/overview)
+* [Installing Phonein Intercom](/InstallationGuide/installing_phonein)
+* [Setting up the Phonein Mobile app](/InstallationGuide/setup_app)
+* [Connecting Phonein to a Strike Lock](/InstallationGUide/connecting-to-a-strike-lock)
 
 ## User Guide
 
-Control of your Phonein Intercom is done through the Phonein Android or iOS mobile apps. 
+Control of your Phonein Intercom is done through the Phonein Android or iOS mobile app. 
 
-* [Installing the Phonein Mobile Apps](UserGuide/install-apps)
-* [Creating a Phonein Account](UserGuide/create-account)
-* [Using the Phonein Mobile Apps](UserGUide/using-apps)
+* [Using the Phonein Mobile app](/UserGUide/using_app)
+* [Managing Phonein devices in the app](/UserGUide/managing_devices)
+* [Managing digital key in the app](/UserGUide/managing_keys)
+* [Info about the Phonein device](/UserGUide/phonein_hardware)
 
 ## Troubleshooting
 
 If you have any problems with your Phonein, check this page, maybe we already have a solution for it. If it's not there, please contact us, and we'll help you solve the issue!
 
-* [Troubleshooting](troubleshooting)
+* [Troubleshooting](/troubleshooting)

@@ -1,83 +1,14 @@
 ---
-id: using-apps
-title: Using the Phonein Mobile Apps
+id: managing_keys
+title: Managing Keys in the Phonein Mobile App
 hide_title: "true"
-sidebar_label: Using the Phonein Mobile Apps
+sidebar_label: Managing Keys in the App
 keywords: 
 - phonein
-- installing Phonein mobile apps
-- mobile apps
+- installing Phonein mobile app
+- mobile app
 - smart keys
 ---
-
-## Using the Phonein Mobile Apps
-
-The Phonein mobile apps are designed to be user-friendly and intuitive.
-
-<!-- Here, you can include the information about accepting the permissions requests for the microphone, which is necessary as it is needed for to be able to speak to the guests, and the user's location, which we need to auto fill the wifi SSID and make wifi configuration a bit easier, but is not necessary. -->
-
-<!-- when creating an account, first go to "create account", enter a username / password, conf password, then check your email, click confirm, come back and then you're in. -->
-Once you have created a Phonein Account, you can start using the app to control your Phonein Intercom.
-
-## Logging On to your Phonein Account
-
-Before you can use the Phonein mobile app, you need to log on to the app first.
-
-To log on to your Phonein account, run the **Phonein** mobile app, enter your email address and password, then press **Enter**.
-
-![Logging On to the Phonein Mobile App](/img/login_page.jpg)
-
-## Logging Off from your Phonein Account
-
-You can log off from your **Phonein** account on your mobile device for extra security.
-
-To log off, press the **Hamburger** menu on the top right, then press **Sign Out**.
-
-## Resetting your Password
-
-In case you forget your password, you can request for a password reset.
-
-To reset your password:
-
-1. On the mobile app's **Login** page, press **Forgot Password**.
-1. Enter your ***email address*** on the box, then press **Reset**.
-1. Go to your mailbox and click the link to change your password.
-1. Your browser opens and displays a **Change Password** page, where you need to enter your new password, then reenter it again.
-1. Click **Change Password**. You should now be able to log on to the Phonein app using your new credentials.
-
-## Adding a Phonein Intercom Device to the Mobile App
-
-When you first log on to the mobile app, you will be greeted with a welcome page, which will ask you to link your installed Phonein device to the mobile app.
-
-> NOTE: The **Phonein Intercom** needs to be installed first before you can link it to your mobile device. For more information, see [Installing Phonein Intercom](InstallationGuide/installing-phonein).
-
-To add a new device:
-
-1. On the Welcome page, press **Add New Device**.
-1. Enter the ***Device Name***, then the ***Device UUID***.  
-![Adding a New Device for the First Time](/img/add_a_new_device.jpg)  
-1. Press **Save** to add the device. You will also get an access key for the new device. 
-
-The name of the new device appears on the **Home** page. From here, you can view its settings.
-
-> You can also add devices from the Hamburger menu on the top right. From here, press **New Device**.
-
-## Viewing the Settings of a Linked Phonein Intercom Device
-
-You can view the settings of your linked **Phonein Intercom** from the mobile app.
-
-1. Select the device from the list that appears on the mobile app's **Home** page. 
-> If you only have one device, its name appears on top of this list.  
-1. Press the **Gear** icon to the right of the device to view the device settings, including its UUID, battery level, house number , base station, device name, inner door configuration (Yes or No) and sound volume.  
-![A Linked Phonein Intercom's Settings](/img/settings_resized.jpg)  
-
-## Viewing the Locations of your Phonein Intercom Devices
-
-If you have **Phonein Intercom** devices set up in various locations and you've added these devices to the mobile app, the locations will be viewable from the mobile app.
-
-To view your locations, on the mobile app's **Home** page, press the **Search** icon to display the **My Locations** page, where you will see a list of your devices.  
-
-![Locations that can be opened with Phonein Keys](/img/locations_resized.jpg)  
 
 ## Creating a New Access Key
 
@@ -190,29 +121,3 @@ You can delete a key when it's no longer needed.
 ![Press the Delete Option](/img/key_options_resized.jpg)  
 1. Press **Delete**.
 1. On the popup, press **Delete** to confirm the operation.
-
-## Viewing your User Profile
-
-You can view your profile by pressing the **Hamburger** menu on the top right, then pressing **User**.
-
-## DIsabling/Enabling Call Push Notifications
-
-To disable call push notifications to prevent you from getting disturbed: 
-
-1. Press the **Hamburger** menu on the top right.
-1. Press **User**.
-1. Press **Call Push Notifications Enabled** to disable the option.
-1. Press **Save**.
-
-To re-enable call push notifications:
-
-1. Press the **Hamburger** menu on the top right
-1. Press **User**.
-1. Press **Call Push Notifications Enabled** to reenable the option.
-1. Press **Save**.
-
-## Viewing Recent Activities
-
-You can view recent activities where your keys were used at any time. This allows you to review potentially suspicious activity related to the use of your digital keys.
-
-To view recent activities related to your keys, on the mobile app's **Home** page, press the **Recent Activity** tab.

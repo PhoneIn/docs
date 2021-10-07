@@ -13,9 +13,6 @@ keywords:
 
 **Phonein Intercom** is the Phonein hardware that is installed inside your residence/office. In most cases, it will fully replace your intercom phone. With Phonein you will have all the functionality of your old intercom, including being able to speak to the guest and buzz them in directly from the device, but also you have the additional smart features used from your smart phone.
 
-## Purchasing the Hardware
-You may purchase Phonein from https://www.phonein.io/buy.
-
 ## What you'll find in the Box?
 <img src="/img/phonein_box_overview.jpg" width="500" /><br/>
 
@@ -36,23 +33,5 @@ Your Phonein hardware comes with the following:
 This version of PhoneIn is a beta device, which means that it’s still under development.
 We work very hard, to make it better and better, so if you experience any problems with your Phonein device, please contact us at contact@phonein.io
 
-## Parts of the Hardware
+Please follow the [Installation guide](/InstallationGuide/installing_phonein) to set up your Phonein device.
 
-When you unbox your Phonein Intercom, you will notice a set of buttons on the front of the hardware. These buttons have the following functions:
-<!-- I think this section about the buttons of the Phonein device should be in another section about using the Phonein, rather than installing, sound good or what do you think? -->
-
-<!-- Would be good to include images of the icons. I can provide those. -->
-
-* Wifi Reset: Press and hold for two (2) seconds.
-* Factory Reset: Press and hold for 10 seconds.
-* Answer / Open: Answer the call, then open the door.
-* Reject: Reject access.
-* Volume Down
-* Volume Up
-* Reboot / Wake Up
-
-<!-- There is some additional text for each of these. For instance, I would like to talk about the wifi reset procedure which is rather lengthy. Also fo rthe Answer / Open, I'd like to talk more about when each one happens. And for volume Up / Down, it depends on which mode the Phonein is in. 
-
-Where should we include this extra text? Can we link them each to their own section?
-
-If you create those areas in the documentation, I can fill them in, as it's rather detailed.  -->
