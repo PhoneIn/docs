@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: [
     'Home',
-    'about_honein',
+    'about_phonein',
     {
       type: 'category',
       label: 'Installation Guide',
