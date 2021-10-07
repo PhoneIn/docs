@@ -1,8 +1,8 @@
 ---
-id: Getting Started
-title: Getting Started
+id: about_phonein
+title: About Phonein
 hide_title: "true"
-sidebar_label: Getting Started
+sidebar_label: About Phonein
 keywords: 
  - phonein
  - phonein intercom
@@ -44,9 +44,9 @@ Before purchasing a Phonein Intercom, make sure that:
 
 ### Phonein
 
-* Phonein Launch - This is the first version of the Phonein Smart Intercom device, shipping in January 2021.
+* Phonein Launch - This is the first version of the Phonein Smart Intercom device, shipping in Fall of 2021.
 
-* Phonein Go - The second version of the Phonein Smart Intercom device. Estimated shipping end of 2021.
+* Phonein Go - The second version of the Phonein Smart Intercom device. Estimated shipping in 2022.
 
 ### Mobile app
 

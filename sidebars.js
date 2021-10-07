@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: [
     'Home',
-    'Getting Started',
+    'About Phonein',
     {
       type: 'category',
       label: 'Installation Guide',
@@ -12,7 +12,7 @@ module.exports = {
       type: 'category',
       label: 'User Guide',
       collapsed: true,
-      items: ['UserGuide/using_app', 'UserGuide/managing_devices', 'UserGuide/managing_keys'],
+      items: ['UserGuide/using_app', 'UserGuide/managing_devices', 'UserGuide/managing_keys', 'UserGuide/phonein_hardware'],
     },
     {
       type: 'category',

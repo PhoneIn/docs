@@ -63,7 +63,7 @@ For connecting your Phonein device to your wifi network, you will only need your
 
 > Phonein currently only supports 2.4GHz wifi networks. If you have 5GHz wifi only, please configure a 2.4GHz network too. You can do it simply in your router settings, for more information please check with your provider.
 
-1. Press the **Hamburger** menu on the top right.
+1. Press the **Hamburger** <img src="/img/hamburger.jpg" width="25" /> menu on the top right.
 1. Press **Setup Wifi**.
 1. Follow the steps on the **Wifi Provisioning** page in the app.
 
@@ -71,16 +71,19 @@ For connecting your Phonein device to your wifi network, you will only need your
 
 The final step before you can finally use your Phonein device, is to tell it your doorphone system type, and doorbell number.
 
+The system type of your doorphone is usually written somewhere on the outdoor unit.
+The doorbell number is the number you have to type on the outdoor unit, to call your flat. If your system doesn't have a keypad, but a separate button for each flat, you can leave the doorbell number as 0.
+
 To set up your system type:
 1. Press the **Gear** icon to the right of the device to view the device settings.
 1. Press the arrow next to the **Base Station** tab.
-1. Choose your system type from the list.
+1. Choose your system type from the list. (If you don't find your system type here, please [contact us](mailto:contact@phonein.io)!)
 1. Press **Save**.
 
 To set up your doorbell number:
 1. Press the **Gear** icon to the right of the device to view the device settings.
 1. Press the arrow next to the **Flat number** tab.
-1. Type in your doorbell number (the number you type in on the basestation, when you want to ring your flat).
+1. Type in your doorbell number.
 1. Press **Save**.
 
 
