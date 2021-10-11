@@ -33,8 +33,10 @@ Conversion notes:
 
 # Installing the Phonein Intercom
 
-You can use your Phonein Intercom either by replacing the old intercom, or setting Phonein up parallel to the old phone, so both of them work at the same time!
+Your Phonein intercom is intended to entirely replace your old intercom phone as the Phonein smart intercom includes all the functions of your current doorphone right on the device, as well as having all the additional smart features detailed in the [User Guide](/UserGUide/using_app).
 
+#### Parrallel installation
+However, if you'd like to set up the Phonein smart intercom *in parrallel* of your existing phone for testing and familiarization purposes, we will detail that option below as well.
 
 # Installation steps
 

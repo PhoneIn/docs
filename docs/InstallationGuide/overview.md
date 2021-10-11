@@ -11,7 +11,7 @@ keywords:
 
 ## Installation Overview
 
-**Phonein Intercom** is the Phonein hardware that is installed inside your residence/office. In most cases, it will fully replace your intercom phone. With Phonein you will have all the functionality of your old intercom, including being able to speak to the guest and buzz them in directly from the device, but also you have the additional smart features used from your smart phone.
+**Phonein Intercom** is the Phonein hardware that is installed inside your apartment/office. In most cases, it will fully replace your intercom phone. With Phonein you will have all the functionality of your old intercom, including being able to speak to the guest and buzz them in directly from the device, but also you have the additional smart features used from your smart phone.
 
 ## What you'll find in the Box?
 <img src="/img/phonein_box_overview.jpg" width="500" /><br/>
@@ -25,13 +25,13 @@ Your Phonein hardware comes with the following:
 - Wall charger: 
     - Phonein has an internal battery, so you don’t need to leave it plugged in to the wall. However, the device is faster if it’s powered through the charger, so if you can leave it plugged in, that’s even better and we recommend it!
 - Connectors:
-    - You will find two green connectors.
-        - The one with the rainbow coloured sticker is for connecting to the doorphone.
-        - The other connector is only needed if you want to use an external power supply, or you have a strikelock.
+    - You will find two green connectors. The **doorbell** connector and the **powerline** connector.
+        - The **doorbell** connector ends with two purple slots each with the label "*2*". It is for connecting to the intercom system.
+        - The **powerline** connector is only needed if you want to use an external power supply, or you have a strikelock.
     - There is also some extra wire, a little screwdriver and some electrical tape, which you can use during the install.
-## WARNING!
-This version of PhoneIn is a beta device, which means that it’s still under development.
-We work very hard, to make it better and better, so if you experience any problems with your Phonein device, please contact us at contact@phonein.io
+## By the way...
+This version of Phonein is a beta device, which means that it’s still under development.
+We work very hard to make it better and better, so if you experience any problems with your Phonein device, or questions or recommendations about the installation process, please check the [Troubleshooting Guide](/troubleshooting) or contact us at contact@phonein.io. 
 
 Please follow the [Installation guide](/InstallationGuide/installing_phonein) to set up your Phonein device.
 

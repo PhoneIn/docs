@@ -1,7 +1,6 @@
 module.exports = {
   someSidebar: [
     'Home',
-    'about_phonein',
     {
       type: 'category',
       label: 'Installation Guide',
@@ -21,5 +20,6 @@ module.exports = {
       items: ['FAQ/general', 'FAQ/hosting', 'FAQ/office', 'FAQ/compatibility'],
     },
     'Troubleshooting',
+    'about_phonein',
   ],
 };
