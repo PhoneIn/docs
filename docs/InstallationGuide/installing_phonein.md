@@ -52,7 +52,7 @@ You can use your Phonein Intercom either by replacing the old intercom, or setti
 1. In most of the cases, you’ll see either 2 or 5 wires coming from the wall, and connecting to the handset. The install flow will be the same for both cases.
     
 > **BE CAREFUL!** You are working with an electric device. Make sure that you don’t touch the non insulated part of the wires, and you don’t let the wires touch each other! In the package you'll find pieces of **electrical tape**. Use these to insulate any loose wire ends while you're installing other parts.
-> <img src="/img/taped_wire.jpg" width="500" /><br/>
+> <img src="/img/taped_wire.jpg" width="250" /><br/>
 
 ### 4. Decision time.
 You can complitely replace your old intercom with Phonein. Along with the cool new features, Phonein can also be used for answering locally when someone rings your flat, just as your old intercom.
@@ -66,7 +66,7 @@ You can complitely replace your old intercom with Phonein. Along with the cool n
     
     1. Grab the supplied extra wire pair, and connect one end of it to one if the green connectors. (Please read **Step 5** now! Continue from here, when you're done with Step 5!)
     1. Add the other end of the supplied extra wire pair right next to the existing ones, inside the terminal on your old intercom. (The new wires should go to the same exact place, as the original wires from the wall!)
-    <img src="/img/wires_in_terminal.jpg" width="500" /><br/>
+    <img src="/img/wires_in_terminal.jpg" width="250" /><br/>
     1. Lead the new wire out (there usually is a little place for it, where the handset wire exits the housing)
     1. Close the old intercom.
     (You can skip **Step 5** now.)
