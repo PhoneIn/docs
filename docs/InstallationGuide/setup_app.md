@@ -24,7 +24,7 @@ You need to download and install the **Phonein** Android and iOS mobile app befo
 1. Click **Install**.
 1. Once the app is installed, click **Open**. You'll then be asked to create a **Phonein** account. 
 
-> The **Phonein** mobile app need access to your phone's audio for making and answering calls.
+> The **Phonein** mobile app needs access to your phone's audio for making and answering calls.
 <!-- Here, you can include the information about accepting the permissions requests for the microphone, which is necessary as it is needed for to be able to speak to the guests, and the user's location, which we need to auto fill the wifi SSID and make wifi configuration a bit easier, but is not necessary. Whichever items are listed when you install the app. -->
 
 ## Creating a Phonein Account
