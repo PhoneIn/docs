@@ -33,10 +33,10 @@ Conversion notes:
 
 # Installing the Phonein Intercom
 
-Your Phonein intercom is intended to entirely replace your old intercom phone as the Phonein smart intercom includes all the functions of your current doorphone right on the device, as well as having all the additional smart features detailed in the [User Guide](/UserGUide/using_app).
+Your Phonein intercom is intended to entirely replace your old intercom phone as the Phonein smart intercom includes all the functions of your current door phone right on the device, as well as having all the additional smart features detailed in the [User Guide](/UserGUide/using_app).
 
-#### Parrallel installation
-However, if you'd like to set up the Phonein smart intercom *in parrallel* of your existing phone for testing and familiarization purposes, we will detail that option below as well.
+#### Parallel installation
+However, if you'd like to set up the Phonein smart intercom *in parallel* of your existing phone for testing and familiarization purposes, we will detail that option below as well.
 
 # Installation steps
 
@@ -56,29 +56,35 @@ However, if you'd like to set up the Phonein smart intercom *in parrallel* of yo
 > **BE CAREFUL!** You are working with an electric device. Make sure that you don’t touch the non insulated part of the wires, and you don’t let the wires touch each other! In the package you'll find pieces of **electrical tape**. Use these to insulate any loose wire ends while you're installing other parts.
 > <img src="/img/taped_wire.jpg" width="250" /><br/>
 
-### 4. Decision time.
+### 4. Remove old phone.
 You can completely replace your old intercom with Phonein. Along with the cool new features, Phonein can also be used for answering locally when someone rings your flat, just as your old intercom.
-1. If you want to replace your old intercom with Phonein:  
-    <img src="/img/Removed_2_2.gif" width="500" /><br/>
+<img src="/img/Removed_2_2.gif" width="500" /><br/>
     
-    1. Remove the wires from the terminal. (insulate them with electrical tape!)
-    1. Remove the old intercom from the wall
-1. If you want to set up your Phonein parallel to the old intercom:  
-    <img src="/img/Stayon_2_2.gif" width="500" /><br/>
-    
-    1. Grab the supplied extra wire pair, and connect one end of it to one if the green connectors. (Please read **Step 5** now! Continue from here, when you're done with Step 5!)
-    1. Add the other end of the supplied extra wire pair right next to the existing ones, inside the terminal on your old intercom. (The new wires should go to the same exact place, as the original wires from the wall!)
-    <img src="/img/wires_in_terminal.jpg" width="250" /><br/>
-    1. Lead the new wire out (there usually is a little place for it, where the handset wire exits the housing)
-    1. Close the old intercom.
+1. Remove the wires from the terminal. (insulate them with electrical tape, as shown above!)
+1. Remove the old intercom from the wall
+
+<details>
+<summary>
+        If you want to set up your Phonein parallel to the old intercom instead:
+</summary>
+        <img src="/img/Stayon_2_2.gif" width="500" /><br/>
+
+        1. Grab the supplied extra cable, and connect one end  of it to one if the green connectors. (Please read **Step 5** now! Continue from here, when you're done with Step 5!)
+        2. Add the other end of the cable right next to the existing ones, inside the terminal on your old intercom. (The new wires should go to the same exact place, as the original wires from the wall!)
+
+        <img src="/img/wires_in_terminal.jpg" width="250" /><br/>
+
+        3. Lead the new wire out (there usually is a little place for it, where the handset wire exits the housing)
+        4. Close the old intercom.
     (You can skip **Step 5** now.)
+</details>
 
 ### 5. Add the connector to the free wires.
-1. Make sure, you use the connector with the rainbow coloured sticker! The other one is the power connector, you don’t need it now.
-1. If it’s a 2 wire system, connect the two wires to the purple terminal places, with the number 2 written on them (it doesn't matter, which wire goes to which of the 2 places)!  
+- Make sure, you use the connector with the rainbow coloured sticker, which has two purple terminal places on the right side!
+- Connect the two wires to the purple terminal places, with the number 2 written on them (it doesn't matter, which wire goes to which of the 2 places)!  
 <img src="/img/Removed_2_5.gif" width="500" /><br/>
 
-1. If it’s a 5 wire system, please read the wire guide, which will explain which wire goes where in the connector. These wires are NOT interchangeable.  
+> If you have a 5 wire system, please read the wire guide, which will explain which wire goes where in the connector. These wires are NOT interchangeable.  
 
 ### 6. Install the Phonein wall mount.  
 <img src="/img/Removed_2_4.gif" width="500" /><br/>
