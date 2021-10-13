@@ -20,7 +20,7 @@ Using this Markdown file:
 1. Paste this output into your source file.
 2. See the notes and action items below regarding this conversion run.
 3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
+   formatting and use a link 0checker before you publish this page.
 
 Conversion notes:
 
@@ -57,7 +57,7 @@ However, if you'd like to set up the Phonein smart intercom *in parrallel* of yo
 > <img src="/img/taped_wire.jpg" width="250" /><br/>
 
 ### 4. Decision time.
-You can complitely replace your old intercom with Phonein. Along with the cool new features, Phonein can also be used for answering locally when someone rings your flat, just as your old intercom.
+You can completely replace your old intercom with Phonein. Along with the cool new features, Phonein can also be used for answering locally when someone rings your flat, just as your old intercom.
 1. If you want to replace your old intercom with Phonein:  
     <img src="/img/Removed_2_2.gif" width="500" /><br/>
     

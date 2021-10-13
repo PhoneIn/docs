@@ -27,7 +27,7 @@ Unlimited keys are ideal for your own use since they remain valid forever. You c
 1. On the mobile app's **Home Page**, press **New Key**.
 1. On the **New Key** page, enter a key name.
 1. Press the **Icon** button and select an applicable category for the key. The default category is ***Friend*** (you can use this if you are creating the key for your own use). The other key categories are ***Customer***, ***Services***, ***Event***, ***Delivery***, ***Renter***, and ***Employee***.  
-![Key Cateogories](/img/icons_resized.jpg)  
+![Key Categories](/img/icons_resized.jpg)  
 1. By default, keys are set for multiple uses.  
 ![Default Unlimited Key without Other Enabled Options](/img/unlimited_key_resized.jpg)  
 1. Press **Create Key**. A confirmation message is shown onscreen once the key is created. You can then share the key (for more information, see [Sharing a Key](#sharing-a-key)).

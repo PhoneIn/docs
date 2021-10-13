@@ -22,7 +22,7 @@ When you unbox your Phonein Intercom, you will notice a set of buttons on the fr
 * <img src="/img/icon_up.jpg" width="25" /> Volume Up
 * <img src="/img/icon_reset.jpg" width="25" /> Reboot / Wake Up
 
-<!-- There is some additional text for each of these. For instance, I would like to talk about the wifi reset procedure which is rather lengthy. Also fo rthe Answer / Open, I'd like to talk more about when each one happens. And for volume Up / Down, it depends on which mode the Phonein is in. 
+<!-- There is some additional text for each of these. For instance, I would like to talk about the wifi reset procedure which is rather lengthy. Also for the Answer / Open, I'd like to talk more about when each one happens. And for volume Up / Down, it depends on which mode the Phonein is in. 
 
 Where should we include this extra text? Can we link them each to their own section?
 

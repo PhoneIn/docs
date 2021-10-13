@@ -69,9 +69,9 @@ For connecting your Phonein device to your wifi network, you will only need your
 
 ## Set up your doorbell system type and doorbell number
 
-The final step before you can finally use your Phonein device, is to tell it your doorphone system type, and doorbell number.
+The final step before you can finally use your Phonein device, is to tell it your door phone system type, and doorbell number.
 
-The system type of your doorphone is usually written somewhere on the outdoor unit.
+The system type of your door phone is usually written somewhere on the outdoor unit.
 The doorbell number is the number you have to type on the outdoor unit, to call your flat. If your system doesn't have a keypad, but a separate button for each flat, you can leave the doorbell number as 0.
 
 To set up your system type:
