@@ -43,41 +43,46 @@ However, if you'd like to set up the Phonein smart intercom *in parallel* of you
 ### 1. Open your old intercom.  
 <img src="/img/Removed_2_1.gif" width="500" /><br/>
 
-1. Usually these intercoms are held together by screws, unscrew these to open the old intercom.
-1. If you don’t see any screws, try inserting a screwdriver into the seam on the side of the intercom, and gently pry it open.
+- Usually these intercoms are held together by screws, unscrew these to open the old intercom.
+- If you don’t see any screws, try inserting a screwdriver into the seam on the side of the intercom, and gently pry it open.
  
+ ---
+
 ### 2. Take pictures of the inside of your intercom now.
-1. Save these pictures, because if you need to move things back for any reason, they will help you remember what goes where.
-1. Make sure you have clear pictures of the wires, and where they connect to the old intercom!
+- Save these pictures, because if you need to move things back for any reason, they will help you remember what goes where.
+- Make sure you have clear pictures of the wires, and where they connect to the old intercom!
+
+---
 
 ### 3. Locate the wires coming from the wall.
-1. In most of the cases, you’ll see either 2 or 5 wires coming from the wall, and connecting to the handset. The install flow will be the same for both cases.
+- In most of the cases, you’ll see either 2 or 5 wires coming from the wall, and connecting to the handset. The install flow will be the same for both cases.
     
 > **BE CAREFUL!** You are working with an electric device. Make sure that you don’t touch the non insulated part of the wires, and you don’t let the wires touch each other! In the package you'll find pieces of **electrical tape**. Use these to insulate any loose wire ends while you're installing other parts.
 > <img src="/img/taped_wire.jpg" width="250" /><br/>
+
+---
 
 ### 4. Remove old phone.
 You can completely replace your old intercom with Phonein. Along with the cool new features, Phonein can also be used for answering locally when someone rings your flat, just as your old intercom.
 <img src="/img/Removed_2_2.gif" width="500" /><br/>
     
-1. Remove the wires from the terminal. (insulate them with electrical tape, as shown above!)
-1. Remove the old intercom from the wall
+- Remove the wires from the terminal. (insulate them with electrical tape, as shown above!)
+- Remove the old intercom from the wall
 
 <details>
 <summary>
         If you want to set up your Phonein parallel to the old intercom instead:
 </summary>
         <img src="/img/Stayon_2_2.gif" width="500" /><br/>
-
         1. Grab the supplied extra cable, and connect one end  of it to one if the green connectors. (Please read **Step 5** now! Continue from here, when you're done with Step 5!)
         2. Add the other end of the cable right next to the existing ones, inside the terminal on your old intercom. (The new wires should go to the same exact place, as the original wires from the wall!)
-
         <img src="/img/wires_in_terminal.jpg" width="250" /><br/>
-
         3. Lead the new wire out (there usually is a little place for it, where the handset wire exits the housing)
         4. Close the old intercom.
     (You can skip **Step 5** now.)
 </details>
+
+---
 
 ### 5. Add the connector to the free wires.
 - Make sure, you use the connector with the rainbow coloured sticker, which has two purple terminal places on the right side!
@@ -86,18 +91,24 @@ You can completely replace your old intercom with Phonein. Along with the cool n
 
 > If you have a 5 wire system, please read the wire guide, which will explain which wire goes where in the connector. These wires are NOT interchangeable.  
 
+---
+
 ### 6. Install the Phonein wall mount.  
 <img src="/img/Removed_2_4.gif" width="500" /><br/>
 
-1. You can use the sticky tape on the wall mount, but for a secure installation, we recommend screwing it to the wall, with the provided screws.
+- You can use the sticky tape on the wall mount, but for a secure installation, we recommend screwing it to the wall, with the provided screws.
+
+---
 
 ### 7. Plug in the connector into the Phonein.  
 <img src="/img/Removed_2_6.gif" width="500" /><br/>
 
-1. Make sure you match the colours found on the connector and the Phonein case.
+- Make sure you match the colours found on the connector and the Phonein case.
+
+---
 
 ### 8. Place your Phonein on the wall mount piece.
-1. The Phonein has a little compartment on the back, where you can hide the excess wires.
+- The Phonein has a little compartment on the back, where you can hide the excess wires.
 
 DONE!
 
