@@ -67,19 +67,21 @@ You can completely replace your old intercom with Phonein. Along with the cool n
 <img src="/img/Removed_2_2.gif" width="500" /><br/>
     
 - Remove the wires from the terminal. (insulate them with electrical tape, as shown above!)
-- Remove the old intercom from the wall
+- Remove the old intercom from the wall.
+
+<br/>
 
 <details>
 <summary>
         If you want to set up your Phonein parallel to the old intercom instead:
 </summary>
         <img src="/img/Stayon_2_2.gif" width="500" /><br/>
-        1. Grab the supplied extra cable, and connect one end  of it to one if the green connectors. (Please read **Step 5** now! Continue from here, when you're done with Step 5!)
+        1. Grab the supplied extra cable, and connect one end  of it to one if the green connectors. (Please read **Step 5** now! Continue from here, when you're done with Step 5!)<br/>
         2. Add the other end of the cable right next to the existing ones, inside the terminal on your old intercom. (The new wires should go to the same exact place, as the original wires from the wall!)
         <img src="/img/wires_in_terminal.jpg" width="250" /><br/>
-        3. Lead the new wire out (there usually is a little place for it, where the handset wire exits the housing)
-        4. Close the old intercom.
-    (You can skip **Step 5** now.)
+        3. Lead the new wire out (there usually is a little place for it, where the handset wire exits the housing)<br/>
+        4. Close the old intercom.<br/>
+    (You can skip **Step 5** now.)<br/>
 </details>
 
 ---
