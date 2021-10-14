@@ -6,13 +6,14 @@ sidebar_label: Compatibility List
 
 ## Is my doorphone compatible with Phonein?
 
-> Phonein supports a huge variety of doorphone systems. We invested a lot of time in research, to know as many systems from all around the world, as we can.
-Here you can find a list of doorphone types, we are confident we can work with:
+Phonein supports a huge variety of doorphone systems. We invested a lot of time in research to make the list as complete and accurate as possible. 
+<br />
+Please see the below list. If your system is not listed, it's possible we may still support it. Please email us at contact@phonein.io with the name and a picture of your device, and we'll get right back to you.
 
- <details>
-  <summary>
-    Compatible Systems:
-  </summary>
+## What if I can't find my doorphone system in the list?
+We're constantly working on supporting new systems. If you can't find your system here, feel free to ask about it at contact@phonein.io
+
+## Compatible Systems List
 
  |Manufacturer     |Model Number                      |
 |-----------------|----------------------------------|
@@ -915,17 +916,3 @@ Here you can find a list of doorphone types, we are confident we can work with:
 |Videx            |PH411 (5 wires)                   |
 |Videx            |Smart 1                           |
 |Yusphone         |Generic                           |
-
- </details>
-
-  
-
-    
-
-      
-
-
-
-## What if I can't find my doorphone system in the list?
-> We're constantly working on supporting new systems. If you can't find your system here, feel free to ask about it at contact@phonein.io
-
