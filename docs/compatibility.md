@@ -1,5 +1,5 @@
 ---
-id: compatibility_faq
+id: compatibility
 title: Compatibility List
 sidebar_label: Compatibility List
 ---
