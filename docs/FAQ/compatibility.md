@@ -355,6 +355,7 @@ Here you can find a list of doorphone types, we are confident we can work with:
 |Fermax           |City Max 4+N                      |
 |Fermax           |Citymax Basic Telephone           |
 |Fermax           |Citymax Universal Telephone       |
+|Fermax           |F-80447 (4+n)                     |
 |Fermax           |ILOFT TELEPHONE VDS EXTRA         |
 |Fermax           |Loft 4+n Basic Telephone          |
 |Fermax           |Loft 4+n Extra Telephone          |
