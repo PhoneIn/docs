@@ -13,7 +13,8 @@ module.exports = {
       title: 'PhoneIn Docs',
       logo: {
         alt: 'PhoneIn Logo',
-        src: 'img/Phonein_logo.svg',
+        src: 'img/Phonein_logo_black.svg',
+        srcDark: 'img/Phonein_logo_white.svg'
       },
       items: [
         // {
