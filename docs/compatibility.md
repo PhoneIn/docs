@@ -6,12 +6,12 @@ sidebar_label: Compatibility List
 
 ## Is my doorphone compatible with Phonein?
 
-Phonein supports a huge variety of doorphone systems. We invested a lot of time in research to make the list as complete and accurate as possible. 
+Phonein supports a huge variety of doorphone systems, including many digital systems. We invested a lot of time in research to make the list as complete and accurate as possible. 
 <br />
 Please see the below list. If your system is not listed, it's possible we may still support it. Please email us at contact@phonein.io with the name and a picture of your device, and we'll get right back to you.
 
 ## What if I can't find my doorphone system in the list?
-We're constantly working on supporting new systems. If you can't find your system here, feel free to ask about it at contact@phonein.io
+We're constantly working on supporting new systems. If you can't find your system here, we really really want to add it to the list. Please send an email to contact@phonein.io with some information about it, such as a picture of the main unit and handset!
 
 ## Compatible Systems List
 
