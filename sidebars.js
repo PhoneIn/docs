@@ -5,7 +5,7 @@ module.exports = {
       type: 'category',
       label: 'Installation Guide',
       collapsed: true,
-      items: ['InstallationGuide/overview', 'InstallationGuide/installing_phonein', 'InstallationGuide/setup_app', 'InstallationGuide/connecting-to-a-strike-lock'],
+      items: ['InstallationGuide/overview', 'InstallationGuide/installing_phonein', 'InstallationGuide/setup_app', 'InstallationGuide/connecting-to-a-strike-lock', 'InstallationGuide/fpn_wire_guide'],
     },
     {
       type: 'category',
